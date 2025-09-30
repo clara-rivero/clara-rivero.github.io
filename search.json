@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "medical-writing.html",
-    "href": "medical-writing.html",
-    "title": "Medical writing",
-    "section": "",
-    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\nIn this portfolio, I include four articles with different styles:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.",
-    "crumbs": [
-      "Medical writing"
-    ]
-  },
-  {
-    "objectID": "medical-writing/eyes-infographic.html#software-choice",
-    "href": "medical-writing/eyes-infographic.html#software-choice",
-    "title": "Clara Rivero Rodríguez",
-    "section": "Software choice",
-    "text": "Software choice\nThe eye picture was created in Krita and the infographic was designed in Figma.",
-    "crumbs": [
-      "Medical writing",
-      "Visual health · Infographic"
-    ]
-  },
-  {
     "objectID": "medical-writing/cholesterol-guide.html",
     "href": "medical-writing/cholesterol-guide.html",
     "title": "Cholesterol practical guide",
@@ -87,6 +66,17 @@
     ]
   },
   {
+    "objectID": "medical-writing/rest-copywriting.html",
+    "href": "medical-writing/rest-copywriting.html",
+    "title": "Clara Rivero Rodríguez",
+    "section": "",
+    "text": "Coming soon.",
+    "crumbs": [
+      "Medical writing",
+      "Sleep · Copywriting"
+    ]
+  },
+  {
     "objectID": "design-frontend.html",
     "href": "design-frontend.html",
     "title": "Clara Rivero Rodríguez",
@@ -109,6 +99,16 @@
     "title": "Healthcare - Communication - Tech - Design",
     "section": "",
     "text": "Welcome to my portfolio.\nI am a medical student and biomedical engineer, passionate about healthcare, communication, and design. I specialize in creating medical content — from scientific articles to patient-focused materials — and visuals, alongside UI/UX design and frontend development. My technical background is supported by several years of experience in devops engineering.\nI am open to freelance or part-time opportunities where I can apply my multidisciplinary skills in medical writing, visual communication and digital product design. I speak fluent English, native Spanish and intermediate German (B2).\nYou can explore some of my projects in the left sidebar (more projects coming soon). I am also open to feedback and happy to connect.\nYou can view my full CV by clicking the LinkedIn icon above."
+  },
+  {
+    "objectID": "medical-writing.html",
+    "href": "medical-writing.html",
+    "title": "Medical writing",
+    "section": "",
+    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\nIn this portfolio, I include four articles with different styles:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.",
+    "crumbs": [
+      "Medical writing"
+    ]
   },
   {
     "objectID": "medical-writing/diabetes-review.html",
@@ -199,14 +199,14 @@
     ]
   },
   {
-    "objectID": "medical-writing/rest-copywriting.html",
-    "href": "medical-writing/rest-copywriting.html",
+    "objectID": "medical-writing/eyes-infographic.html#software-choice",
+    "href": "medical-writing/eyes-infographic.html#software-choice",
     "title": "Clara Rivero Rodríguez",
-    "section": "",
-    "text": "Coming soon.",
+    "section": "Software choice",
+    "text": "Software choice\nThe eye picture was created in Krita and the infographic was designed in Figma.",
     "crumbs": [
       "Medical writing",
-      "Sleep · Copywriting"
+      "Visual health · Infographic"
     ]
   }
 ]
