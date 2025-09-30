@@ -1,0 +1,52 @@
+---
+title: "Type 2 diabetes: a comprehensive literature review"
+format:
+  html:
+    bibliography: diabetes-review.bib
+    csl: american-medical-association.csl
+    link-citations: true  
+---
+## Abstract
+This literature review provides a structured analysis of type 2 diabetes mellitus, including its epidemiology, pathophysiological mechanisms, diagnostic criteria and current treatments.
+
+## Introduction
+Diabetes is a chronic endocrine disease characterized by elevated blood glucose levels due to inadequate insulin action. According to the 2025 International Diabetes Federation Atlas [@idf_FactsFigures], 11.1% of the global adult population is living with diabetes and 40% of them are unaware of it. Considering the serious health risks associated with it, especially when left untreated, a close examination of its causes and increasing prevalence is warranted.
+
+The major types of diabetes are type 1 and type 2. Type 1 diabetes (T1D) results from an autoimmune process consisting on the self-destruction of the insulin-producing pancreatic β-cells, which leads to an absolute insulin deficiency. It is impacted by genetic and environmental factors but its exact causes and prevention strategies remain unknown [@Bell2025]. It accounts for 5-10% of diabetes cases [@CDC_T1D_2024]. 
+
+Conversely, type 2 diabetes (T2D) is related to two main pathophysiological mechanisms: a decrease in the sensitivity of the target tissues to insulin, a phenomenon known as insulin resistance, and a progressive dysfunction of pancreatic β-cells, which leads to insufficient insulin secretion. While genetic predisposition plays a role, the development of type 2 diabetes is strongly linked to obesity and physical inactivity. It is the most common type of diabetes, accounting for more than 90% of all cases [@Mynarska2025]. Given its high prevalence and the proven effectiveness of prevention strategies in delaying or even preventing disease onset, type 2 diabetes is the focus of this study.
+
+## Epidemiology
+589 millions of adults are currently living with diabetes - 1 in 9 - and it is estimated to rise to 853 million by 2025 - 1 in 8 [@idf_AdultPopulation_2025]. It is ranked among the top 10 causes of disease-related deaths worldwide. Although the incidence of diabetes is increasing in both sexes, it is estimated that worldwide 17.7 million more men than women suffer from the disease [@KautzkyWiller2023]. This growing burden is largely driven by rising global rates of obesity, which has more than doubled since 1990 [@WHO_ObesityOverweight_2025].
+
+## Pathophysiology
+Insulin is a peptide hormone which regulates blood glucose levels by promoting its uptake and storage, especially in skeletal muscle, liver and white adipose tissue. It is produced by β cells in the islets of Langerhans of the pancreas, both basally to maintain glucose homeostasis and in larger pulsatile bursts after meals. Physiologically, it binds to plasma membrane-bound receptors in target cells, activating the PI3K/AKT pathway, which facilitates glucose uptake, inhibits gluconeogenesis and enhances glycogen synthesis [@Lu2024]. 
+
+The metabolites of chronic overnutrition, such as high glucose and non-esterified fatty acids, interfere with the activation of the insulin receptor and its subsequent metabolic signalling cascade, leading to a progressive insulin resistance. The pancreas responds by increasing insulin secretion, so that blood glucose stability can be maintained [@Lu2024]. Eventually, if this condition persists, β cells are no longer able to secrete enough insulin to compensate for the abnormally high blood glucose, resulting in the progression to diabetes. It culminates in β-cell failure, likely due to glucose and lipid toxicity [@Petersen2018].
+
+## Diagnostic criteria
+Diabetes can be diagnosed by different biomarkers.
+
+- Fasting plasma glucose (FPG): A blood sample is taken after an 8-hour overnight fast. If plasma glucose is ≥126mg/dl, the patient is considered diabetic [@ADA_DiabetesDiagnosis_2025].
+
+- Glycated Hemoglobin (HbA1C): It measures the amount of hemoglobin that is bound to glucose. Since glycation occurs gradually over the lifespan of an erythrocyte (approximately 120 days), HbA1C is considered an indicator of average plasma glucose over the past 8 to 12 weeks. It does not require fasting and is not affected by acute stress [@Makris2011]. A value of HbA1c ≥6.5% indicates diabetes [@ADA_DiabetesDiagnosis_2025].
+
+- Oral glucose tolerance test (OGTT): Plasma glucose is measured before and 2 hours after the ingestion of 75g of glucose. If the 2-hour plasma glucose is ≥200 mg/dl, the patient is considered diabetic [@ADA_DiabetesDiagnosis_2025].
+
+- Casual plasma glucose test: It is performed when the patient manifests classic symptoms of hyperglycemia. If plasma glucose is ≥200mg/dl, diabetes can be diagnosed [@ADA_DiabetesDiagnosis_2025].
+
+In all cases, it is recommended to repeat the test on a different day to confirm the diagnosis.
+
+As different types of diabetes have distinct underlying pathophysiological mechanisms, it is essential to identify which type of diabetes a patient has. Clinicians predominantly rely on clinical features to differentiate type 1 diabetes (T1D) from type 2 diabetes (T2D) [@Shields2015]. The American Diabetes Association (ADA) recommends the AABBCC approach, which involves considering the following factors: Age; Autoimmunity (e.g., personal or family history of autoimmune disease); Body habitus (e.g., body mass index); Background (e.g., family history of diabetes); Control (e.g., the inability to achieve glycemic goals on noninsulin therapies); and Comorbidities [@ElSayed2024]. Late disease onset during adulthood and obesity are indicative of T2D, while T1D is typically associated with younger individuals (<35 years), lower BMI (<25 kg/m2) and ketoacidosis. However, this approach carries a risk of misclassification. In Spain, over the last decade, approximately 40% of patients with T1D onset after the age of 30 years were initially diagnosed as T2D. Therefore, the assessment of pancreatic autoimmunity is recommended in all patients with a suspected diagnosis of T1D to prevent misdiagnosis [@ElSayed2024].
+
+## Treatment
+There is currently no cure for any type of diabetes. However, several treatment options are available for T2D, enabling patients to keep the disease under control and avoid serious complications. The cornerstone of effective management is lifestyle intervention: balanced nutrition while minimizing added sugars, refined grains and highly processed foods; regular physical activity; weight loss; abstinence from tobacco; and good quality sleep [@Galindo2023].
+
+Depending on the severity of hyperglycemia at diagnosis and other clinical factors, such as the presence of symptoms or comorbidities, medication may be initiated immediately alongside lifestyle interventions to achieve better glycemic control and reduce the risk of complications. Common non-insulin medications include metformin, DPP-4 inhibitors, sulfonylureas and thiazolidinediones, as well as more recently introduced agents such as GLP-1 receptor agonists and SGLT2 inhibitors.[@ADA_T2BMedications_2025]. 
+ 
+Due to the progressive nature of T2D, many patients will eventually require insulin therapy. GLP-1 receptor agonists should be considered as the first injectable agents before basal insulin, given the strong evidence supporting their efficacy. If additional treatment is needed, basal insulin should be introduced first and titrated to a maximum effective dose in a safe and timely way [@Galindo2023]. Approximately one-third of patients with T2D require treatment with insulin during their lifetime [@Kalyani2025].
+
+Self-monitoring of blood glucose (SMBG) is recommended for patients who take insulin or other medications that carry a risk of hypoglycemia, such as sulfonylureas. There is no clear consensus regarding its benefit in individuals with stable glycemic control managed through lifestyle or non-hypoglycemic agents [@ADA_BloodChecks_2025]. Continuous glucose monitoring devices (CGM), which are worn passively and measure interstitial glucose values every 1–5 min, are increasingly being adopted by T2D patients who are treated with insulin.
+
+## Conclusion
+Diabetes is a complex metabolic disease that affects approximately 11.1% of the global population. This review has provided a broad overview by touching on the main points of the epidemiology, pathophysiological mechanisms, diagnostic criteria and current treatments of T2D, without delving into every detail due to the extensive nature of the topic. In recent years, there have been significant advances in the development of novel pharmacological agents, often with fewer side effects or tailored to patients with comorbidities, as well as in the improvement of glucose monitoring technologies. As innovation continues, the challenge will be to translate these advances into accessible, preventive and patient-centered care worldwide.

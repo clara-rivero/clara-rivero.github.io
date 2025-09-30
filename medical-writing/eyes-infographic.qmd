@@ -1,0 +1,4 @@
+![](eye_care_infographic.png){width=500}
+
+## Software choice
+The eye picture was created in Krita and the infographic was designed in Figma.

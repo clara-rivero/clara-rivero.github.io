@@ -1,0 +1,115 @@
+/* ====== TIPOGRAFÍA GENERAL ====== */
+h1 {
+    font-family: serif;   
+    font-size: 1.75rem;           
+    color: #2a9d8f;                
+    text-transform: none;        
+    text-align: center;
+  }
+
+h2 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+  font-size: 17px;
+  color: #333;      
+  text-align: left;
+  font-style: bold;
+  border-bottom: none;
+  margin-bottom: 0px !important;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+    text-align: justify;  
+    margin: 0;
+    padding: 0;
+  }
+
+  /* ====== LAYOUT GENERAL ====== */
+
+ main {
+    max-width: 900px;   
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+} 
+
+
+.breadcrumb, .quarto-breadcrumb, .page-header, .quarto-page-header {
+  display: none !important;
+}
+
+.side-title {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.navbar-title {
+  text-align: left !important;
+  margin-left: 0; 
+}
+
+.navbar {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.navbar-brand {
+  font-family: 'Lora';
+  font-size: 1.35em;
+  color: #000000 !important;
+}
+
+ /* Eliminar sangría de la referencia cuando pongo el cursor encima. */
+.csl-entry, 
+.csl-entry * {
+  text-indent: 0 !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* Ajusta la posición del número de la cita */
+.csl-left-margin {
+  float: left;
+  width: 2em; 
+}
+
+/* Alinea el texto correctamente */
+.csl-right-inline {
+  margin-left: 2.2em; /
+}
+
+.csl-bibliography .csl-entry {
+  text-indent: 0 !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  display: block;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.6); /* blanco semitransparente */
+  backdrop-filter: blur(8px); /* desenfoque del fondo */
+  -webkit-backdrop-filter: blur(8px);
+}
+
+#refs *,
+.references *,
+.csl-bib-body * {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-indent: 0 !important;
+}
+
+
+
+
+
+
+

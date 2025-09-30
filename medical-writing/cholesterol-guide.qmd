@@ -1,0 +1,68 @@
+---
+title: "Cholesterol practical guide"
+---
+
+## What is cholesterol? Why does it matter?
+Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D. 
+
+Cholesterol levels come from its natural production in the liver and from the diet, particularly through the ingestion of animal foods. In addition, saturated fats, that are also present in some vegetables oils, have an impact on the way our bodies process cholesterol, increasing it.
+
+If cholesterol builds up in our blood vessels, particularly in arteries, it may lead to their narrowing, reducing the blood flow and increasing the risk for serious conditions, such as heart attack and stroke.
+
+## Cholesterol types
+Cholesterol does not travel alone in blood due to its low solubility (it cannot mix with water, as it happens with oil). For this purpose, it is transported inside structures called lipoproteins, which are made of both water-friendly and fat-friendly components. The type of lipoprotein that carries cholesterol determines its classification in:
+
+- HDL-cholesterol: High-density lipoproteins carry cholesterol from peripheral tissues to the liver for excretion. It helps to remove excess cholesterol from blood vessels and therefore it is known as the "good" cholesterol.
+
+- LDL-cholesterol: Low-density lipoproteins carry cholesterol from the liver to other parts of the body. If there is excess cholesterol, it accumulates in blood as cells will only take up the cholesterol they need. Its accumulation in our arteries is dangerous because it contributes to the development of cardiovascular disease. Therefore it is known as the "bad" cholesterol.
+
+## How does high LDL-cholesterol contribute to cardiovascular disease?
+Under normal conditions, LDL cholesterol cannot easily pass through the inner lining of our blood vessels, the endothelium. However, chronically elevated LDL levels, in the presence of a higher endothelial permeability — due to factors like high blood pressure, inflammation or genetics — can lead to the entry of these LDL particles in the subendothelial space, where they accumulate forming a fatty plaque. This process is known as atherosclerosis.
+
+These plaques grow slowly over many years, often without causing noticeable symptoms. As they grow, they narrow the blood flow, so the amount of oxygen and nutrients the reach the surrounding tissues is reduced. Depending on the affected vessel type, symptoms may vary, including angina, dizziness or muscle pain.
+
+::: {layout="[[1,1]]" layout-valign="bottom"} 
+::: {.custom-figure}
+![Healthy artery: HDL in blue, LDL in yellow.](cholesterol-images/healthy_artery.png){#fig-bloqueada width="100%"}
+:::
+
+::: {.custom-figure}
+![Atherosclerosis.](cholesterol-images/atherosclerosis.png){#fig-bloqueada width="100%"}
+:::
+:::
+
+If left untreated, the constant blood flow through the narrowed artery puts pressure on the inflamed area, which increases the risk of the plaque rupturing. Plaque rupture worsens the condition. The body reacts to the damage by forming a blood clot on the affected area, which can further narrow the artery or block it completely.
+
+::: {.custom-figure}
+![Blocked artery by plaque rupture and blood clot.](cholesterol-images/blocked_artery.png){#fig-bloqueada width="47%"}
+:::
+
+
+If this happens in a coronary artery, it can cause a heart attack. If it occurs in a carotid artery, it may lead to a stroke. Both are serious, potentially life-threatening conditions that require immediate medical attention.
+
+
+## How to improve cholesterol levels
+Cholesterol levels are affected by genetics, existing health conditions and lifestyle — which is, fortunately, something we can control. Experts' recommendations are clear:
+
+- Exercise regularly
+- Do not smoke
+- Lower your stress levels
+- Limit intake of saturated fats (found in fatty meats, butter and some processed foods)
+
+In some cases, it may also be necessary to take cholesterol-lowering medications under a doctor's supervision.
+
+&nbsp;
+
+*All images are original.*
+
+---
+
+## References
+
+<div style="color:#555; font-weight:300; font-size:0.9em;">
+
+Huff T, Boyd B, Jialal I. Physiology, Cholesterol. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Updated 2023 Mar 6. Accessed September 26, 2025. [https://www.ncbi.nlm.nih.gov/books/NBK470561/](https://www.ncbi.nlm.nih.gov/books/NBK470561/)
+
+American Heart Association. Cholesterol. 2024. Accessed September 26, 2025. [https://www.heart.org/en/health-topics/cholesterol](https://www.heart.org/en/health-topics/cholesterol)
+
+</div>

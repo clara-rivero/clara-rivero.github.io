@@ -1,0 +1,12 @@
+---
+title: "Healthcare - Communication - Tech - Design"
+---
+Welcome to my portfolio.
+
+I am a medical student and biomedical engineer, passionate about healthcare, communication, and design. I specialize in creating medical content — from scientific articles to patient-focused materials — and visuals, alongside UI/UX design and frontend development. My technical background is supported by several years of experience in devops engineering.
+
+I am open to freelance or part-time opportunities where I can apply my multidisciplinary skills in medical writing, visual communication and digital product design. I speak fluent English, native Spanish and intermediate German (B2). 
+
+You can explore some of my projects in the left sidebar (more projects coming soon). I am also open to feedback and happy to connect.
+
+*You can view my full CV by clicking the LinkedIn icon above.*
