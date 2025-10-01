@@ -5,6 +5,7 @@ h1 {
     color: #2a9d8f;                
     text-transform: none;        
     text-align: center;
+    margin-bottom: 1rem !important;
   }
 
 h2 {
