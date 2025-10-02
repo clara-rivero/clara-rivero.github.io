@@ -1,7 +1,6 @@
 ---
 title: "Cholesterol practical guide"
 ---
-
 ## What is cholesterol? Why does it matter?
 Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D. 
 

@@ -1,12 +1,18 @@
 /* ====== TIPOGRAFÍA GENERAL ====== */
 h1 {
     font-family: serif;   
-    font-size: 1.75rem;           
+    font-size: 1.65rem;           
     color: #2a9d8f;                
     text-transform: none;        
     text-align: center;
     margin-bottom: 1rem !important;
   }
+
+ @media screen and (max-width: 768px) {
+  h1 {
+    font-size: 1.35rem !important;   
+  }
+}
 
 h2 {
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
@@ -17,6 +23,12 @@ h2 {
   border-bottom: none;
   margin-bottom: 0px !important;
 }
+
+ /* @media screen and (max-width: 768px) {
+  h2 {
+    font-size: 15px !important;   
+  }
+} */
 
 p {
     text-align: justify;
@@ -32,6 +44,11 @@ body {
     padding: 0;
   }
 
+/* @media screen and (max-width: 768px) {
+  p {
+    font-size: 13px !important;   
+  }
+} */
   /* ====== LAYOUT GENERAL ====== */
 
  main {
@@ -57,9 +74,37 @@ body {
   margin-left: 0; 
 }
 
+@media screen and (max-width: 768px) {
+  .navbar-title {
+    display: none !important;
+  }
+}
+
 .navbar {
   padding-left: 0 !important;
-  margin-left: 0 !important;
+  margin-left: 9px !important;
+}
+
+.navbar-brand-container {
+  padding-top: 0 !important;
+  margin-top: 0px !important;
+}
+
+.nav-link {
+  padding-bottom: 6px !important;
+  margin-bottom: 0px !important;
+}
+
+a {
+  color: #000000;      /* color azul Google */
+  font-style: bold;
+  text-decoration: none; /* subrayado para que se note */
+  font-weight: 400;    /* un poco más fuerte */
+}
+
+.quarto-secondary-nav {
+  padding-left: 0 !important;
+  margin-left: 9px !important;
 }
 
 .navbar-brand {
@@ -108,9 +153,9 @@ body {
   text-indent: 0 !important;
 }
 
-
-
-
-
-
-
+/* quitar la lupa de arriba en móvil */
+@media (max-width: 768px) {
+  .aa-DetachedSearchButton{
+    display: none !important;
+  }
+}
