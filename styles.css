@@ -98,7 +98,7 @@ body {
 main a.main-link {
   color: #333333;     
   text-decoration: underline; 
-  font-weight: 700;   
+  font-weight: 550;   
 }
 
 main a.main-link:hover {

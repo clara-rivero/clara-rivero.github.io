@@ -14,5 +14,5 @@ In this portfolio, I include four articles with different styles:
 
 - [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to healthcare professionals and students.
 -  [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
-- [Eye care essentials.](medical-writing/cholesterol-guide.qmd){.main-link} An infographic which may be delivered by an eye health company or organization.
+- [Eye care essentials.](medical-writing/eyes-infographic.qmd){.main-link} An infographic which may be delivered by an eye health company or organization.
 - [Stop making excuses: prioritize your sleep.](medical-writing/rest-copywriting.qmd){.main-link} A copywriting article which aims to encourage good sleeping habits.
