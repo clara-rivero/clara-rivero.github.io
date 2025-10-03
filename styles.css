@@ -59,7 +59,6 @@ body {
     padding-right: 20px;
 } 
 
-
 .breadcrumb, .quarto-breadcrumb, .page-header, .quarto-page-header {
   display: none !important;
 }
@@ -95,11 +94,16 @@ body {
   margin-bottom: 0px !important;
 }
 
-a {
-  color: #000000;      /* color azul Google */
-  font-style: bold;
-  text-decoration: none; /* subrayado para que se note */
-  font-weight: 400;    /* un poco más fuerte */
+/* Formato hipervínculos de las páginas principales */
+main a.main-link {
+  color: #333333;     
+  text-decoration: underline; 
+  font-weight: 700;   
+}
+
+main a.main-link:hover {
+  color: #000000;        
+  text-decoration: none;  
 }
 
 .quarto-secondary-nav {

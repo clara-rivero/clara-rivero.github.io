@@ -8,9 +8,9 @@ I am a medical student and biomedical engineer, passionate about healthcare, com
 
 I am open to freelance or part-time opportunities where I can apply my multidisciplinary skills in medical writing, visual communication and digital product design. I speak fluent English, native Spanish and intermediate German (B2). 
 
-You can explore some of my projects in the left sidebar:
+You can explore some of my projects in the left sidebar or clicking directly below:
 
-- [Medical writing and related visuals](medical-writing.qmd)
+- [Medical writing and related visuals](medical-writing.qmd){.main-link}
 - UI/UX Design and frontend development: coming soon.
 
 I am also open to feedback and happy to connect.
