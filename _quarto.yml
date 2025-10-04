@@ -6,6 +6,7 @@ website:
   favicon: clara_logo.svg
   navbar:
     background: transparent
+    collapse: false
     logo: clara_logo.svg
     left:
       - icon: linkedin

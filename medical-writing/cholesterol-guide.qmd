@@ -1,7 +1,6 @@
 ---
 title: "Cholesterol practical guide"
 ---
-
 ## What is cholesterol? Why does it matter?
 Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D. 
 
@@ -21,14 +20,12 @@ Under normal conditions, LDL cholesterol cannot easily pass through the inner li
 
 These plaques grow slowly over many years, often without causing noticeable symptoms. As they grow, they narrow the blood flow, so the amount of oxygen and nutrients the reach the surrounding tissues is reduced. Depending on the affected vessel type, symptoms may vary, including angina, dizziness or muscle pain.
 
-::: {layout="[[1,1]]" layout-valign="bottom"} 
 ::: {.custom-figure}
-![Healthy artery: HDL in blue, LDL in yellow.](cholesterol-images/healthy_artery.png){#fig-bloqueada width="100%"}
+![Healthy artery: HDL in blue, LDL in yellow.](cholesterol-images/healthy_artery.png){#fig-bloqueada width="47%"}
 :::
 
 ::: {.custom-figure}
-![Atherosclerosis.](cholesterol-images/atherosclerosis.png){#fig-bloqueada width="100%"}
-:::
+![Atherosclerosis.](cholesterol-images/atherosclerosis.png){#fig-bloqueada width="47%"}
 :::
 
 If left untreated, the constant blood flow through the narrowed artery puts pressure on the inflamed area, which increases the risk of the plaque rupturing. Plaque rupture worsens the condition. The body reacts to the damage by forming a blood clot on the affected area, which can further narrow the artery or block it completely.
