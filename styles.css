@@ -1,11 +1,18 @@
 /* ====== TIPOGRAFÍA GENERAL ====== */
 h1 {
     font-family: serif;   
-    font-size: 1.75rem;           
+    font-size: 1.65rem;           
     color: #2a9d8f;                
     text-transform: none;        
     text-align: center;
+    margin-bottom: 1rem !important;
   }
+
+ @media screen and (max-width: 768px) {
+  h1 {
+    font-size: 1.35rem !important;   
+  }
+}
 
 h2 {
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
@@ -41,7 +48,6 @@ body {
     padding-right: 20px;
 } 
 
-
 .breadcrumb, .quarto-breadcrumb, .page-header, .quarto-page-header {
   display: none !important;
 }
@@ -56,9 +62,42 @@ body {
   margin-left: 0; 
 }
 
+@media screen and (max-width: 768px) {
+  .navbar-title {
+    display: none !important;
+  }
+}
+
 .navbar {
   padding-left: 0 !important;
-  margin-left: 0 !important;
+  margin-left: 9px !important;
+}
+
+.navbar-brand-container {
+  padding-top: 0 !important;
+  margin-top: 0px !important;
+}
+
+.nav-link {
+  padding-bottom: 6px !important;
+  margin-bottom: 0px !important;
+}
+
+/* Formato hipervínculos de las páginas principales */
+main a.main-link {
+  color: #333333;     
+  text-decoration: underline; 
+  font-weight: 550;   
+}
+
+main a.main-link:hover {
+  color: #000000;        
+  text-decoration: none;  
+}
+
+.quarto-secondary-nav {
+  padding-left: 0 !important;
+  margin-left: 9px !important;
 }
 
 .navbar-brand {
@@ -107,9 +146,9 @@ body {
   text-indent: 0 !important;
 }
 
-
-
-
-
-
-
+/* quitar la lupa de arriba en móvil */
+@media (max-width: 768px) {
+  .aa-DetachedSearchButton{
+    display: none !important;
+  }
+}
