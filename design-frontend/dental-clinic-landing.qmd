@@ -1,0 +1,27 @@
+---
+title: "Dental clinic landing page"
+---
+Steps to follow:
+1. Mockup in Figma - se pueden simular interacciones
+2. Frontend (React + Tailwind CSS) - desarrollar el frontend de la web.
+3. Adaptación a diferentes dispositivos.
+4. Desplegar de forma gratuita en Vercel o Netlify.
+5. Documentar el proceso: capturas del mockup de Figma, de la landing publicada (con el link a la url y al repositorio en Github), explicaciones sobre decisiones diseño (colores, tipografía, jerarquía visual, botones), explicación UX (flujo claro - botones accesibles desde el principio).
+
+Extra: SEO básico, performance (optimización de imágenes, lazy loading)
+
+Partes de la web: 
+1. Header: logo, menú de navegación, botón de agendar cita o contactar.
+2. Hero o sección principal: imagen o fondo, texto de bienvenida, presentación
+3. Servicios cn iconos.
+4. Testimonios de pacientes
+5. Información del equipo.
+6. Contacto: formulario, mapa interactivo con google maps.
+7. Footer: redes sociales, horarios, política de privacidad.
+
+Componentes como módulos en React y Tailwind para los estilos (adaptación a distintos tamaños de pantalla: sm:, md:, lg:).
+
+Figma frames:
+Desktop: 1440px (ancho) / 1200px (ancho) x 6000px (alto) (o más dependiendo del nº de secciones)
+Tablet: 768px (ancho) x 1500px (alto) o más
+Mobile: 375px (ancho) x 800px (alto) o más
