@@ -1,6 +1,7 @@
 ---
 title: "Cholesterol practical guide"
 ---
+
 ## What is cholesterol? Why does it matter?
 Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D. 
 
@@ -56,9 +57,9 @@ In some cases, it may also be necessary to take cholesterol-lowering medications
 
 ## References
 
-<div style="color:#555; font-weight:300; font-size:0.9em;">
+<div class="custom-reference">
 
-Huff T, Boyd B, Jialal I. Physiology, Cholesterol. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Updated 2023 Mar 6. Accessed September 26, 2025. [https://www.ncbi.nlm.nih.gov/books/NBK470561/](https://www.ncbi.nlm.nih.gov/books/NBK470561/)
+Huff T, Boyd B, Jialal I. Physiology, Cholesterol. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Updated 2023 Mar 6. Accessed September 26, 2025. [https://www.ncbi.nlm.nih.gov/books/NBK470561/](https://www.ncbi.nlm.nih.gov/books/NBK470561/)
 
 American Heart Association. Cholesterol. 2024. Accessed September 26, 2025. [https://www.heart.org/en/health-topics/cholesterol](https://www.heart.org/en/health-topics/cholesterol)
 

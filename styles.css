@@ -158,3 +158,11 @@ main a.main-link:hover {
     display: none !important;
   }
 }
+
+.custom-reference {
+  text-align: left !important;
+  word-break: break-word;
+  color: #555;
+  font-weight: 300;
+  font-size: 0.9em;
+}
