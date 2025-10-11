@@ -24,6 +24,18 @@ h2 {
   margin-bottom: 0px !important;
 }
 
+h3 {
+  font-family: serif;
+  font-size: 16px;
+  color: #222;      
+  text-align: left;
+  font-style: italic;
+  text-indent: 1.5em;
+  border-bottom: none;
+  margin-top: 1px !important;
+  margin-bottom: 1px !important;
+}
+
 p {
     text-align: justify;
 }
