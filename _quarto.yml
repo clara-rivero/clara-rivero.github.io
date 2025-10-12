@@ -32,8 +32,11 @@ website:
                 href: medical-writing/eyes-infographic.qmd
               - text: "Sleep · Copywriting"
                 href: medical-writing/rest-copywriting.qmd
-      - section: "UI/UX design and frontend"
-        href: design-frontend.qmd
+      - section: "UI/UX design"
+        href: design.qmd
+        contents:
+              - text: "Dental clinic · Landing page"
+                href: design/dental-clinic-landing.qmd
 
 format:
   html:

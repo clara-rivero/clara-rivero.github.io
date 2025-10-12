@@ -24,6 +24,18 @@ h2 {
   margin-bottom: 0px !important;
 }
 
+h3 {
+  font-family: serif;
+  font-size: 16px;
+  color: #222;      
+  text-align: left;
+  font-style: italic;
+  text-indent: 1.5em;
+  border-bottom: none;
+  margin-top: 1px !important;
+  margin-bottom: 1px !important;
+}
+
 p {
     text-align: justify;
 }
@@ -37,6 +49,12 @@ body {
     margin: 0;
     padding: 0;
   }
+
+@media (max-width: 600px) {
+   body {
+    text-align: left;
+  }
+}
 
   /* ====== LAYOUT GENERAL ====== */
 
@@ -151,4 +169,12 @@ main a.main-link:hover {
   .aa-DetachedSearchButton{
     display: none !important;
   }
+}
+
+.custom-reference {
+  text-align: left !important;
+  word-break: break-word;
+  color: #555;
+  font-weight: 300;
+  font-size: 0.9em;
 }
