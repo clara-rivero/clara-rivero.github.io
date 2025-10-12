@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://clara-rivero.github.io/design/dental-clinic-landing.html</loc>
+    <lastmod>2025-10-12T14:35:52.225Z</lastmod>
+  </url>
+  <url>
     <loc>https://clara-rivero.github.io/medical-writing/cholesterol-guide.html</loc>
-    <lastmod>2025-10-04T20:50:20.540Z</lastmod>
+    <lastmod>2025-10-12T14:35:52.229Z</lastmod>
   </url>
   <url>
     <loc>https://clara-rivero.github.io/medical-writing/rest-copywriting.html</loc>
-    <lastmod>2025-10-04T20:50:20.547Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clara-rivero.github.io/design-frontend.html</loc>
-    <lastmod>2025-10-04T20:50:20.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clara-rivero.github.io/contact.html</loc>
-    <lastmod>2025-10-04T20:50:20.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clara-rivero.github.io/index.html</loc>
-    <lastmod>2025-10-04T20:50:20.540Z</lastmod>
+    <lastmod>2025-10-12T14:35:52.235Z</lastmod>
   </url>
   <url>
     <loc>https://clara-rivero.github.io/medical-writing.html</loc>
-    <lastmod>2025-10-04T20:50:20.540Z</lastmod>
+    <lastmod>2025-10-12T14:35:52.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clara-rivero.github.io/index.html</loc>
+    <lastmod>2025-10-12T14:35:52.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clara-rivero.github.io/contact.html</loc>
+    <lastmod>2025-10-12T14:35:52.225Z</lastmod>
   </url>
   <url>
     <loc>https://clara-rivero.github.io/medical-writing/diabetes-review.html</loc>
-    <lastmod>2025-10-04T20:50:20.546Z</lastmod>
+    <lastmod>2025-10-12T14:35:52.234Z</lastmod>
   </url>
   <url>
     <loc>https://clara-rivero.github.io/medical-writing/eyes-infographic.html</loc>
-    <lastmod>2025-10-04T20:50:20.547Z</lastmod>
+    <lastmod>2025-10-12T14:35:52.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clara-rivero.github.io/design.html</loc>
+    <lastmod>2025-10-12T14:35:52.225Z</lastmod>
   </url>
 </urlset>
