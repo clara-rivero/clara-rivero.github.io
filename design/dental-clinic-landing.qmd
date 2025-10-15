@@ -51,7 +51,7 @@ For the mobile version, content is stacked vertically and the buttons texts are 
   /* Para pantallas grandes (web) */
   @media (min-width: 768px) {
     .mobile-design-container {
-      width: 40%; /* Solo 40% del contenedor padre */
+      width: 60%; /* Solo 60% del contenedor padre */
     }
   }
 </style>
