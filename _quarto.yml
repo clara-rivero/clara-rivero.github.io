@@ -49,8 +49,7 @@ format:
     page-layout: full #article
     grid:
       sidebar-width: 300px
-    meta:
-      google-site-verification: 456EVRPZWCaBQHKbD_wdrnYwHUGorUAIfr6SMhsWmnQ
+    include-in-header: google-verification.html
 
 execute:
   freeze: auto
