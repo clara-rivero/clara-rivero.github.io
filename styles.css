@@ -162,6 +162,8 @@ main a.main-link:hover {
   margin-left: 0 !important;
   padding-left: 0 !important;
   text-indent: 0 !important;
+  text-align: left !important;
+  word-break: break-word !important;
 }
 
 /* quitar la lupa de arriba en móvil */

@@ -17,7 +17,11 @@ This article focuses on the biochemical principles behind CO poisoning, specific
 ## Hemoglobin and its critical role
 Hemoglobin is a spherical protein inside red blood cells that carries oxygen inside the body. It is composed by 4 peptidic chains, each one associated with a heme prosthetic group, a central ferrous atom (Fe²⁺) in a porphyrin ring, which is able to link reversible to an oxygen molecule. Therefore, each hemoglobin protein can carry 4 oxygen molecules [@Herrera2014_BioquimicaBasica].
 
-For this protein to be an effective oxygen carrier, it must bind oxygen in the lungs, where the partial pressure is about 100 mmHg, and release it in the tissues, where it drops to around 20–40 mmHg. Therefore, its affinity for oxygen, that is, its tendency to bind to it, should vary depending on the partial pressure of oxygen in the surrounding environment. In the figure below, the % of hemoglobin saturation (oxyhemoglobin) is shown as a function of the partial pressure of oxygen. The relationship is not linear but sigmoidal, which perfectly matches the physiological needs of the body: lower affinity — indicated by a shallower slope — in low-oxygen environments (tissues), and higher affinity in high-oxygen environments (lungs) [@Herrera2014_BioquimicaBasica]. 
+For this protein to be an effective oxygen carrier, it must bind oxygen in the lungs, where the partial pressure is about 100 mmHg, and release it in the tissues, where it drops to around 20–40 mmHg. Therefore, its affinity for oxygen, that is, its tendency to bind to it, should vary depending on the partial pressure of oxygen in the surrounding environment. In the figure below, the fraction of hemoglobin saturation (oxyhemoglobin) is shown as a function of the partial pressure of oxygen. The relationship is not linear but sigmoidal, which perfectly matches the physiological needs of the body: lower affinity — indicated by a shallower slope — in low-oxygen environments (tissues), and higher affinity in high-oxygen environments (lungs) [@Herrera2014_BioquimicaBasica]. 
+
+::: {.custom-figure}
+![Hemoglobin oxygen saturation curve. Original graph created following Hill equation, considering p50 = 26mmHg and n = 2'7.](images/hemoglobin_oxygen_saturation_curve.png){#fig-hb-saturation width="50%"}
+:::
 
 This phenomenon stems from the positive cooperativity among the four subunits of hemoglobin: the binding of one subunit to oxygen increases the affinity of the remaining subunits, due to a conformational change in the protein [@Herrera2014_BioquimicaBasica].
 

@@ -22,17 +22,17 @@ Under normal conditions, LDL cholesterol cannot easily pass through the inner li
 These plaques grow slowly over many years, often without causing noticeable symptoms. As they grow, they narrow the blood flow, so the amount of oxygen and nutrients the reach the surrounding tissues is reduced. Depending on the affected vessel type, symptoms may vary, including angina, dizziness or muscle pain.
 
 ::: {.custom-figure}
-![Healthy artery: HDL in blue, LDL in yellow.](cholesterol-images/healthy_artery.png){#fig-bloqueada width="47%"}
+![Healthy artery: HDL in blue, LDL in yellow.](images/healthy_artery.png){#fig-bloqueada width="47%"}
 :::
 
 ::: {.custom-figure}
-![Atherosclerosis.](cholesterol-images/atherosclerosis.png){#fig-bloqueada width="47%"}
+![Atherosclerosis.](images/atherosclerosis.png){#fig-bloqueada width="47%"}
 :::
 
 If left untreated, the constant blood flow through the narrowed artery puts pressure on the inflamed area, which increases the risk of the plaque rupturing. Plaque rupture worsens the condition. The body reacts to the damage by forming a blood clot on the affected area, which can further narrow the artery or block it completely.
 
 ::: {.custom-figure}
-![Blocked artery by plaque rupture and blood clot.](cholesterol-images/blocked_artery.png){#fig-bloqueada width="47%"}
+![Blocked artery by plaque rupture and blood clot.](images/blocked_artery.png){#fig-bloqueada width="47%"}
 :::
 
 
