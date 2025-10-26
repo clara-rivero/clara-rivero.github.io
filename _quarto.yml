@@ -4,6 +4,7 @@ project:
 website:
   title: "Clara Rivero Rodríguez"
   favicon: clara_logo.svg
+  site-url: https://clara-rivero.github.io
   navbar:
     background: transparent
     collapse: false
@@ -32,6 +33,8 @@ website:
                 href: medical-writing/eyes-infographic.qmd
               - text: "Sleep · Copywriting"
                 href: medical-writing/rest-copywriting.qmd
+              - text: "CO poisoning · Article"
+                href: medical-writing/co-poisoning.qmd
       - section: "UI/UX design"
         href: design.qmd
         contents:

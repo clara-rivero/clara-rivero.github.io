@@ -1,0 +1,34 @@
+---
+title: "Carbon monoxide (CO) poisoning"
+format:
+  html:
+    bibliography: references/co-poisoning.bib
+    csl: american-medical-association.csl
+    link-citations: true  
+---
+
+## Introduction
+Carbon monoxide (CO) is a colorless, tasteless and odorless gas whose inhalation can kill in minutes. Accidental exposures to this gas, known also as the silent killer, cause annually around 100 deaths in Spain [@Chayan2009] and 28000 deaths worlwide [@Mcmahon2025]. The incidence of intentional CO poisoning — often associated with suicide — is estimated to be higher [@Schwartz2023]. 
+
+CO is produced during the incomplete combustion of carbon compounds such as gasoline, wood and charcoal: the burning in oxygen-limited environments of these compounds hinders a complete combustion, which results in the releasing of CO, instead of CO₂. For example, home gas stoves and fireplaces in poorly ventilated rooms may produce this dangerous gas. Consequently, many of these tragic deaths are linked to domestic accidents. The manifestations of low-moderate poisoning tend to be non-specific, such as headache, dizziness and vomits, so misdiagnosis are common until symptoms are life-threatening [@Schwartz2023].
+
+This article focuses on the biochemical principles behind CO poisoning, specifically, on the particularities of the binding of CO to hemoglobin, emphasizing its power to displace oxygen and therefore to deprive the body of an essential gas for human survival. 
+
+## Hemoglobin and its critical role
+Hemoglobin is a spherical protein inside red blood cells that carries oxygen inside the body. It is composed by 4 peptidic chains, each one associated with a heme prosthetic group, a central ferrous atom (Fe²⁺) in a porphyrin ring, which is able to link reversible to an oxygen molecule. Therefore, each hemoglobin protein can carry 4 oxygen molecules [@Herrera2014_BioquimicaBasica].
+
+For this protein to be an effective oxygen carrier, it must bind oxygen in the lungs, where the partial pressure is about 100 mmHg, and release it in the tissues, where it drops to around 20–40 mmHg. Therefore, its affinity for oxygen, that is, its tendency to bind to it, should vary depending on the partial pressure of oxygen in the surrounding environment. In the figure below, the fraction of hemoglobin saturation (oxyhemoglobin) is shown as a function of the partial pressure of oxygen. The relationship is not linear but sigmoidal, which perfectly matches the physiological needs of the body: lower affinity — indicated by a shallower slope — in low-oxygen environments (tissues), and higher affinity in high-oxygen environments (lungs) [@Herrera2014_BioquimicaBasica]. 
+
+::: {.custom-figure}
+![Hemoglobin oxygen saturation curve. Original graph created following Hill equation, considering p50 = 26mmHg and n = 2'7.](images/hemoglobin_oxygen_saturation_curve.png){#fig-hb-saturation}
+:::
+
+This phenomenon stems from the positive cooperativity among the four subunits of hemoglobin: the binding of one subunit to oxygen increases the affinity of the remaining subunits due to a conformational change in the protein [@Herrera2014_BioquimicaBasica].
+
+## CO and its damage potential
+CO has 200 to 250 times greater affinity for hemoglobin than oxygen, making this interaction highly favorable. As a result, even low concentrations of CO can displace oxygen from hemoglobin [@Nelson2017_Lehninger]. 
+
+The damage caused by CO is not limited to its high affinity for hemoglobin. While a 50% reduction in hemoglobin due to anemia is not immediately life-threatening, a 50% concentration of COHb (hemoglobin bound to CO) is fatal. This is because CO binding to one subunit of hemoglobin activates the positive cooperativity of the remaining subunits towards oxygen, increasing their affinity. As a result, the hemoglobin molecule cannot efficiently release oxygen to tissues. Some oxygen gets trapped in COHb molecules, while the unaffected hemoglobin molecules are exposed to lower oxygen concentrations, leading to severe tissue hypoxia [@Nelson2017_Lehninger]. If untreated, tissue hypoxia can result in death. Treatment consists of immediate removal from the carbon monoxide source and supplemental oxygen administration.
+
+## Conclusion
+The lethality of CO poisoning arises from its high affinity for hemoglobin and the consequent activation of hemoglobin’s positive cooperativity towards oxygen. It provides a clear clinical example of fundamental biochemical principles. Since CO poisoning is one of the most common types of poisoning worldwide, it is crucial for healthcare professionals to understand its mechanism of action and to raise public awareness for its prevention. For a deeper understanding of the molecular interactions responsible for hemoglobin’s cooperativity, readers are encouraged to consult the biochemistry textbooks listed in the references section.

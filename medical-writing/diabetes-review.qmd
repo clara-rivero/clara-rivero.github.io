@@ -2,7 +2,7 @@
 title: "Type 2 diabetes: a comprehensive literature review"
 format:
   html:
-    bibliography: diabetes-review.bib
+    bibliography: references/diabetes-review.bib
     csl: american-medical-association.csl
     link-citations: true  
 ---
