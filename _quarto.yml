@@ -4,7 +4,7 @@ project:
 website:
   title: "Clara Rivero Rodríguez"
   favicon: clara_logo.svg
-  site-url: "https://clara-rivero.github.io/"
+  site-url: https://clara-rivero.github.io
   navbar:
     background: transparent
     collapse: false
