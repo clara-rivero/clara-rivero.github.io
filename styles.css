@@ -180,3 +180,24 @@ main a.main-link:hover {
   font-weight: 300;
   font-size: 0.9em;
 }
+
+/* ====== FIGURAS ====== */
+/* Contenedor de la figura - para el caption */
+.custom-figure {
+  text-align: justify; 
+}
+
+/* Imagen dentro del contenedor */
+.custom-figure img {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Movile responsive */
+@media (max-width: 768px) {
+  .custom-figure img {
+    width: 100%;
+  }
+}
