@@ -143,30 +143,6 @@
     ]
   },
   {
-    "objectID": "medical-writing.html",
-    "href": "medical-writing.html",
-    "title": "Medical writing",
-    "section": "",
-    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\nIn this portfolio, I include four pieces with different styles:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.",
-    "crumbs": [
-      "Medical writing"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Healthcare, Communication, Design",
-    "section": "",
-    "text": "Welcome to my portfolio.\nI’m a medical student and biomedical engineer, passionate about healthcare, communication and design. I specialize in creating medical content — from scientific articles to patient-oriented materials — and visuals, alongside UI/UX design. My technical background, supported by several years of experience in IT, allows me to approach digital projects with a well-rounded perspective.\nI offer freelance services in medical writing, visual content creation and digital product design. I speak fluent English, native Spanish and intermediate German (B2).\nFeel free to contact me, let’s collaborate together! Contact\nYou can explore some of my projects from the left sidebar or clicking directly below:\n\nMedical writing and related visuals\nUI/UX Design\n\nI’m also open to feedback and always happy to connect. Thank you.\nYou can view my full CV by clicking the LinkedIn icon above."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I am based in Spain. You can contact me via:\n\nEmail: clara.rivero.rdgz@gmail.com\nLinkedIn: linkedin.com/in/clarariverorodriguez"
-  },
-  {
     "objectID": "medical-writing/diabetes-review.html",
     "href": "medical-writing/diabetes-review.html",
     "title": "Type 2 diabetes: a comprehensive literature review",
@@ -252,6 +228,85 @@
     "crumbs": [
       "Medical writing",
       "Diabetes · Literature review"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am based in Spain. You can contact me via:\n\nEmail: clara.rivero.rdgz@gmail.com\nLinkedIn: linkedin.com/in/clarariverorodriguez"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Healthcare, Communication, Design",
+    "section": "",
+    "text": "Welcome to my portfolio.\nI’m a medical student and biomedical engineer, passionate about healthcare, communication and design. I specialize in creating medical content — from scientific articles to patient-oriented materials — and visuals, alongside UI/UX design. My technical background, supported by several years of experience in IT, allows me to approach digital projects with a well-rounded perspective.\nI offer freelance services in medical writing, visual content creation and digital product design. I speak fluent English, native Spanish and intermediate German (B2).\nFeel free to contact me, let’s collaborate together! Contact\nYou can explore some of my projects from the left sidebar or clicking directly below:\n\nMedical writing and related visuals\nUI/UX Design\n\nI’m also open to feedback and always happy to connect. Thank you.\nYou can view my full CV by clicking the LinkedIn icon above."
+  },
+  {
+    "objectID": "medical-writing.html",
+    "href": "medical-writing.html",
+    "title": "Medical writing",
+    "section": "",
+    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\nIn this portfolio, I include four pieces with different styles:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.\nCO poisoning. An educational article for biochemistry students or interested readers.",
+    "crumbs": [
+      "Medical writing"
+    ]
+  },
+  {
+    "objectID": "medical-writing/co-poisoning.html",
+    "href": "medical-writing/co-poisoning.html",
+    "title": "Carbon monoxide (CO) poisoning",
+    "section": "",
+    "text": "Carbon monoxide (CO) is a colorless, tasteless and odorless gas whose inhalation can kill in minutes. Accidental exposures to this gas, known also as the silent killer, cause annually around 100 deaths in Spain1 and 28000 deaths worlwide2. The incidence of intentional CO poisoning — often associated with suicide — is estimated to be higher3.\nCO is produced during the incomplete combustion of carbon compounds such as gasoline, wood and charcoal: the burning in oxygen-limited environments of these compounds hinders a complete combustion, which results in the releasing of CO, instead of CO₂. For example, home gas stoves and fireplaces in poorly ventilated rooms may produce this dangerous gas. Consequently, many of these tragic deaths are linked to domestic accidents. The manifestations of low-moderate poisoning tend to be non-specific, such as headache, dizziness and vomits, so misdiagnosis are common until symptoms are life-threatening3.\nThis article focuses on the biochemical principles behind CO poisoning, specifically, on the particularities of the binding of CO to hemoglobin, emphasizing its power to displace oxygen and therefore to deprive the body of an essential gas for human survival.",
+    "crumbs": [
+      "Medical writing",
+      "CO poisoning · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/co-poisoning.html#introduction",
+    "href": "medical-writing/co-poisoning.html#introduction",
+    "title": "Carbon monoxide (CO) poisoning",
+    "section": "",
+    "text": "Carbon monoxide (CO) is a colorless, tasteless and odorless gas whose inhalation can kill in minutes. Accidental exposures to this gas, known also as the silent killer, cause annually around 100 deaths in Spain1 and 28000 deaths worlwide2. The incidence of intentional CO poisoning — often associated with suicide — is estimated to be higher3.\nCO is produced during the incomplete combustion of carbon compounds such as gasoline, wood and charcoal: the burning in oxygen-limited environments of these compounds hinders a complete combustion, which results in the releasing of CO, instead of CO₂. For example, home gas stoves and fireplaces in poorly ventilated rooms may produce this dangerous gas. Consequently, many of these tragic deaths are linked to domestic accidents. The manifestations of low-moderate poisoning tend to be non-specific, such as headache, dizziness and vomits, so misdiagnosis are common until symptoms are life-threatening3.\nThis article focuses on the biochemical principles behind CO poisoning, specifically, on the particularities of the binding of CO to hemoglobin, emphasizing its power to displace oxygen and therefore to deprive the body of an essential gas for human survival.",
+    "crumbs": [
+      "Medical writing",
+      "CO poisoning · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/co-poisoning.html#hemoglobin-and-its-critical-role",
+    "href": "medical-writing/co-poisoning.html#hemoglobin-and-its-critical-role",
+    "title": "Carbon monoxide (CO) poisoning",
+    "section": "Hemoglobin and its critical role",
+    "text": "Hemoglobin and its critical role\nHemoglobin is a spherical protein inside red blood cells that carries oxygen inside the body. It is composed by 4 peptidic chains, each one associated with a heme prosthetic group, a central ferrous atom (Fe²⁺) in a porphyrin ring, which is able to link reversible to an oxygen molecule. Therefore, each hemoglobin protein can carry 4 oxygen molecules4.\nFor this protein to be an effective oxygen carrier, it must bind oxygen in the lungs, where the partial pressure is about 100 mmHg, and release it in the tissues, where it drops to around 20–40 mmHg. Therefore, its affinity for oxygen, that is, its tendency to bind to it, should vary depending on the partial pressure of oxygen in the surrounding environment. In the figure below, the fraction of hemoglobin saturation (oxyhemoglobin) is shown as a function of the partial pressure of oxygen. The relationship is not linear but sigmoidal, which perfectly matches the physiological needs of the body: lower affinity — indicated by a shallower slope — in low-oxygen environments (tissues), and higher affinity in high-oxygen environments (lungs)4.\n\n\n\n\n\n\n\nFigure 1: Hemoglobin oxygen saturation curve. Original graph created following Hill equation, considering p50 = 26mmHg and n = 2’7.\n\n\n\n\nThis phenomenon stems from the positive cooperativity among the four subunits of hemoglobin: the binding of one subunit to oxygen increases the affinity of the remaining subunits due to a conformational change in the protein4.",
+    "crumbs": [
+      "Medical writing",
+      "CO poisoning · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/co-poisoning.html#co-and-its-damage-potential",
+    "href": "medical-writing/co-poisoning.html#co-and-its-damage-potential",
+    "title": "Carbon monoxide (CO) poisoning",
+    "section": "CO and its damage potential",
+    "text": "CO and its damage potential\nCO has 200 to 250 times greater affinity for hemoglobin than oxygen, making this interaction highly favorable. As a result, even low concentrations of CO can displace oxygen from hemoglobin5.\nThe damage caused by CO is not limited to its high affinity for hemoglobin. While a 50% reduction in hemoglobin due to anemia is not immediately life-threatening, a 50% concentration of COHb (hemoglobin bound to CO) is fatal. This is because CO binding to one subunit of hemoglobin activates the positive cooperativity of the remaining subunits towards oxygen, increasing their affinity. As a result, the hemoglobin molecule cannot efficiently release oxygen to tissues. Some oxygen gets trapped in COHb molecules, while the unaffected hemoglobin molecules are exposed to lower oxygen concentrations, leading to severe tissue hypoxia5. If untreated, tissue hypoxia can result in death. Treatment consists of immediate removal from the carbon monoxide source and supplemental oxygen administration.",
+    "crumbs": [
+      "Medical writing",
+      "CO poisoning · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/co-poisoning.html#conclusion",
+    "href": "medical-writing/co-poisoning.html#conclusion",
+    "title": "Carbon monoxide (CO) poisoning",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe lethality of CO poisoning arises from its high affinity for hemoglobin and the consequent activation of hemoglobin’s positive cooperativity towards oxygen. It provides a clear clinical example of fundamental biochemical principles. Since CO poisoning is one of the most common types of poisoning worldwide, it is crucial for healthcare professionals to understand its mechanism of action and to raise public awareness for its prevention. For a deeper understanding of the molecular interactions responsible for hemoglobin’s cooperativity, readers are encouraged to consult the biochemistry textbooks listed in the references section.",
+    "crumbs": [
+      "Medical writing",
+      "CO poisoning · Article"
     ]
   },
   {
