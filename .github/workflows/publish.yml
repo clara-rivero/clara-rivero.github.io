@@ -17,6 +17,15 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      # Cache de resultados renderizados - info https://github.com/actions/cache
+      - name: Cache Quarto freeze
+        uses: actions/cache@v4
+        with:
+          path: _freeze
+          key: ${{ runner.os }}-quarto-${{ hashFiles('**/*.qmd') }}
+          restore-keys: |
+            ${{ runner.os }}-quarto-
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
