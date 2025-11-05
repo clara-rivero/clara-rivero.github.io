@@ -10,7 +10,7 @@ Medical writing is an extensive field, which may include, among others:
 - Health communication for the general public, where explaining complex topics in a simple but rigorous manner is required.
 - Content creation for health startups and companies.
 
-In this portfolio, I include five pieces with different styles:
+Medical writing pieces:
 
 - [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to healthcare professionals and students.
 - [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
