@@ -2,13 +2,15 @@
 title: "Medical writing"
 ---
 
-Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.
+Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity and accuracy.
 
 Medical writing is an extensive field, which may include, among others:
 
 - Up-to-date technical information for healthcare professionals or students.
 - Health communication for the general public, where explaining complex topics in a simple but rigorous manner is required.
 - Content creation for health startups and companies.
+
+&nbsp;
 
 Medical writing pieces:
 

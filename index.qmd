@@ -10,7 +10,7 @@ I offer freelance services in medical writing and visual content creation. I spe
 
 Feel free to contact me, let's collaborate together! [Contact](contact.qmd){.main-link}
 
-You can explore my articles and visuals from the left sidebar or clicking directly below:
+You can explore some of my articles and visuals from the left sidebar or clicking directly below:
 
 - [Medical writing and related visuals](medical-writing.qmd){.main-link}
 
