@@ -4,66 +4,42 @@
     "href": "design/dental-clinic-landing.html",
     "title": "Dental clinic landing page",
     "section": "",
-    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma.",
-    "crumbs": [
-      "UI/UX design",
-      "Dental clinic · Landing page"
-    ]
+    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma."
   },
   {
     "objectID": "design/dental-clinic-landing.html#introduction",
     "href": "design/dental-clinic-landing.html#introduction",
     "title": "Dental clinic landing page",
     "section": "",
-    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma.",
-    "crumbs": [
-      "UI/UX design",
-      "Dental clinic · Landing page"
-    ]
+    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma."
   },
   {
     "objectID": "design/dental-clinic-landing.html#ui-design-justification",
     "href": "design/dental-clinic-landing.html#ui-design-justification",
     "title": "Dental clinic landing page",
     "section": "UI Design justification",
-    "text": "UI Design justification\n\nColor palette\nThe target values to convey were: professionalism, cleanliness, trust and health. I chose a color palette based on: white, black, soft blues and coral. White and soft blues are associated with hygiene and calmness, black conveys professionalism and the colar tone resembles the natural color of healthy gums, adding a welcoming touch to the layout.\n\n\nTypography\nI selected Gloock and Gulzar as the primary typefaces, to reinforce the professional visual identity of the dental clinic. Gloock is characterized by its elegant curves and strong strokes, which makes it suitable for the headings and key textual elements. Gluzar, on the other hand, is simpler and enhances readibility, so it was applied in the body text. Both share similarities - visual harmony is maintained.\nFor call-to-action buttons, I used Inter, a modern sans-serif typeface, very legible, which invites for interaction.\n\n\nImages and iconography\nThe logo and the images were created by me. The logo initially began as a representation of the top view of a molar, but it evolved into a simpler version consisting of oblique rectangles representing vertical shadows. This minimal adaptation worked better for mobile responsiveness while aligning with the elegance and simplicity of the overall design.\nSince this is a fictional project, I didn’t have access to real images of a dental clinic. Instead, I represented the types of images I would include in each section. The first image, for example, could feature a smiling family to create a welcoming first impression. The following two images would ideally show portraits of the clinic’s doctors to help build trust.",
-    "crumbs": [
-      "UI/UX design",
-      "Dental clinic · Landing page"
-    ]
+    "text": "UI Design justification\n\nColor palette\nThe target values to convey were: professionalism, cleanliness, trust and health. I chose a color palette based on: white, black, soft blues and coral. White and soft blues are associated with hygiene and calmness, black conveys professionalism and the colar tone resembles the natural color of healthy gums, adding a welcoming touch to the layout.\n\n\nTypography\nI selected Gloock and Gulzar as the primary typefaces, to reinforce the professional visual identity of the dental clinic. Gloock is characterized by its elegant curves and strong strokes, which makes it suitable for the headings and key textual elements. Gluzar, on the other hand, is simpler and enhances readibility, so it was applied in the body text. Both share similarities - visual harmony is maintained.\nFor call-to-action buttons, I used Inter, a modern sans-serif typeface, very legible, which invites for interaction.\n\n\nImages and iconography\nThe logo and the images were created by me. The logo initially began as a representation of the top view of a molar, but it evolved into a simpler version consisting of oblique rectangles representing vertical shadows. This minimal adaptation worked better for mobile responsiveness while aligning with the elegance and simplicity of the overall design.\nSince this is a fictional project, I didn’t have access to real images of a dental clinic. Instead, I represented the types of images I would include in each section. The first image, for example, could feature a smiling family to create a welcoming first impression. The following two images would ideally show portraits of the clinic’s doctors to help build trust."
   },
   {
     "objectID": "design/dental-clinic-landing.html#ux-design-justification",
     "href": "design/dental-clinic-landing.html#ux-design-justification",
     "title": "Dental clinic landing page",
     "section": "UX Design justification",
-    "text": "UX Design justification\n\nLayout and user flow\nThe structure follows a logical and easy-to-navigate order that prioritizes quick access to essential information without overwhelming the reader.\nThe header includes the logo and buttons that link to the corresponding sections on the same page. The “Contact” button features bold text, is accompanied by a mouse pointer icon, and is positioned at the top right to draw attention and encourage user interaction.\nThe hero section displays a happy and healthy family, reflecting the clinic’s core patients and values. Its message, summarized in three lines, reinforces the promotion of dental health and the offering for help.\nIn a clinical environment, it is crucial for visitors to know who is in charge and why they can be trusted. The team section addresses this by showcasing the doctors’ qualifications, personal photos, and professional experience. Trust is further reinforced by a dedicated reviews section, featuring patient testimonials and highlighting the clinic’s key strengths.\nFinally, the contact information is placed at the bottom of the page, following a common and intuitive structure. Since the website is short and this setion is inmmediatley displayed when pressing the contact button at the top, this placement should not hinder accessibility.\n\n\nMobile responsiveness\nFor the mobile version, content is stacked vertically and the buttons texts are simplified, ensuring a good experience.",
-    "crumbs": [
-      "UI/UX design",
-      "Dental clinic · Landing page"
-    ]
+    "text": "UX Design justification\n\nLayout and user flow\nThe structure follows a logical and easy-to-navigate order that prioritizes quick access to essential information without overwhelming the reader.\nThe header includes the logo and buttons that link to the corresponding sections on the same page. The “Contact” button features bold text, is accompanied by a mouse pointer icon, and is positioned at the top right to draw attention and encourage user interaction.\nThe hero section displays a happy and healthy family, reflecting the clinic’s core patients and values. Its message, summarized in three lines, reinforces the promotion of dental health and the offering for help.\nIn a clinical environment, it is crucial for visitors to know who is in charge and why they can be trusted. The team section addresses this by showcasing the doctors’ qualifications, personal photos, and professional experience. Trust is further reinforced by a dedicated reviews section, featuring patient testimonials and highlighting the clinic’s key strengths.\nFinally, the contact information is placed at the bottom of the page, following a common and intuitive structure. Since the website is short and this setion is inmmediatley displayed when pressing the contact button at the top, this placement should not hinder accessibility.\n\n\nMobile responsiveness\nFor the mobile version, content is stacked vertically and the buttons texts are simplified, ensuring a good experience."
   },
   {
     "objectID": "design/dental-clinic-landing.html#desktop-design",
     "href": "design/dental-clinic-landing.html#desktop-design",
     "title": "Dental clinic landing page",
     "section": "Desktop design",
-    "text": "Desktop design",
-    "crumbs": [
-      "UI/UX design",
-      "Dental clinic · Landing page"
-    ]
+    "text": "Desktop design"
   },
   {
     "objectID": "design/dental-clinic-landing.html#mobile-design",
     "href": "design/dental-clinic-landing.html#mobile-design",
     "title": "Dental clinic landing page",
     "section": "Mobile design",
-    "text": "Mobile design",
-    "crumbs": [
-      "UI/UX design",
-      "Dental clinic · Landing page"
-    ]
+    "text": "Mobile design"
   },
   {
     "objectID": "medical-writing/cholesterol-guide.html",
@@ -242,14 +218,14 @@
     "href": "index.html",
     "title": "Healthcare, Communication, Design",
     "section": "",
-    "text": "Welcome to my portfolio.\nI’m a medical student and biomedical engineer, passionate about healthcare, communication and design. I specialize in creating medical content — from scientific articles to patient-oriented materials — and visuals, alongside UI/UX design. My technical background, supported by several years of experience in IT, allows me to approach digital projects with a well-rounded perspective.\nI offer freelance services in medical writing, visual content creation and digital product design. I speak fluent English, native Spanish and intermediate German (B2).\nFeel free to contact me, let’s collaborate together! Contact\nYou can explore some of my projects from the left sidebar or clicking directly below:\n\nMedical writing and related visuals\nUI/UX Design\n\nI’m also open to feedback and always happy to connect. Thank you.\nYou can view my full CV by clicking the LinkedIn icon above."
+    "text": "Welcome to my website.\nI’m a medical student and biomedical engineer, passionate about healthcare, communication and design.\nI offer freelance services in medical writing and visual content creation. I speak fluent English, native Spanish and intermediate German (B2).\nFeel free to contact me, let’s collaborate together! Contact\nYou can explore some of my articles and visuals from the left sidebar or clicking directly below:\n\nMedical writing and related visuals\n\nI’m also open to feedback and always happy to connect. Thank you.\nYou can view my full CV by clicking the LinkedIn icon above."
   },
   {
     "objectID": "medical-writing.html",
     "href": "medical-writing.html",
     "title": "Medical writing",
     "section": "",
-    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\nIn this portfolio, I include five pieces with different styles:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.\nCO poisoning. An educational article for biochemistry students or interested readers.",
+    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\n \nMedical writing pieces:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.\nCO poisoning. An educational article for biochemistry students or interested readers.",
     "crumbs": [
       "Medical writing"
     ]
@@ -325,9 +301,6 @@
     "href": "design.html",
     "title": "UI/UX Design",
     "section": "",
-    "text": "In the midst of the digital revolution, the demand for products that are functional and intuitive is on rise. Digitalization impacts all areas of life and affects people of all ages — no one should feel left behind.\nGood UI/UX design makes a product easier to use, more valuable and more enjoyable to interact with. Aesthetics and functionality, aligned to create the best possible user experience, so people don’t regret the arrival of technology in their lives.\nCurrently, there is one project in my portfolio:\n\nDental clinic landing page. Desktop and mobile design for a website of a fictional dental clinic.",
-    "crumbs": [
-      "UI/UX design"
-    ]
+    "text": "In the midst of the digital revolution, the demand for products that are functional and intuitive is on rise. Digitalization impacts all areas of life and affects people of all ages — no one should feel left behind.\nGood UI/UX design makes a product easier to use, more valuable and more enjoyable to interact with. Aesthetics and functionality, aligned to create the best possible user experience, so people don’t regret the arrival of technology in their lives.\nCurrently, there is one project in my portfolio:\n\nDental clinic landing page. Desktop and mobile design for a website of a fictional dental clinic."
   }
 ]
