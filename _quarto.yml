@@ -20,7 +20,7 @@ website:
   sidebar:
     style: "docked"
     search: true 
-    collapse-level: 1
+    collapse-level: 2
     contents:
       - section: "Medical writing"
         href: medical-writing.qmd
@@ -35,11 +35,6 @@ website:
                 href: medical-writing/rest-copywriting.qmd
               - text: "CO poisoning · Article"
                 href: medical-writing/co-poisoning.qmd
-      - section: "UI/UX design"
-        href: design.qmd
-        contents:
-              - text: "Dental clinic · Landing page"
-                href: design/dental-clinic-landing.qmd
 
 format:
   html:
