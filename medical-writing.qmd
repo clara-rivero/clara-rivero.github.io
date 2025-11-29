@@ -12,10 +12,15 @@ Medical writing is an extensive field, which may include, among others:
 
 &nbsp;
 
-Medical writing pieces:
+Portfolio selection:
 
 - [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to healthcare professionals and students.
 - [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
 - [Eye care essentials.](medical-writing/eyes-infographic.qmd){.main-link} An infographic which may be delivered by an eye health company or organization.
 - [Stop making excuses: prioritize your sleep.](medical-writing/rest-copywriting.qmd){.main-link} A copywriting article which aims to encourage good sleeping habits.
 - [CO poisoning.](medical-writing/co-poisoning.qmd){.main-link} An educational article for biochemistry students or interested readers.
+
+
+More medical writing pieces:
+
+- [Bone metabolism.](medical-writing/bone-metabolism.qmd){.main-link} Scientific divulgation article. 

@@ -1,0 +1,30 @@
+---
+title: "Bone metabolism"
+# format:
+#   html:
+#     bibliography: references/bone-metabolism.bib
+#     csl: american-medical-association.csl
+#     link-citations: true  
+---
+
+## Introduction
+Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. 
+
+Why do women tend to develop bone issues during menopause? What is the role of vitamin D in bone creation? Why is it recommended to practice physical exercise to keep bones strong? Throughout this article, we will explore these questions in detail.
+
+
+## Bone composition and properties
+Bone is a highly vascularized tissue composed of bone cells embedded in a mineralized organic matrix, which consists mainly of hydroxypatite (Ca₁₀(PO₄)₆(OH)₂), responsible for its stiffness, and collagen fibers, which contribute to its resilience. This combination makes bones hard to deform but not fragile. Regarding its cells:
+
+- **Osteoblasts** promote bone formation by the synthesis of collagen and other components of the extracellular matrix. 
+- **Osteocytes** derive from osteoblasts. In particular, osteoblasts differentiate to osteocytes when they get trapped in the newly synthesized bone matrix. They are responsible for the mechanotransduction of bone (its response to mechanical signals) and the secretion of esclerotin, which inhibits bone formation.
+- **Osteoclasts** are responsible for bone resorption, resulting in the breaking down of the tissue and the release of calcium and phosphate to the bloodstream. This process is essential in a healthy bone, as it allows for the removal of old bone and its adaptation to new mechanical loads (bones can change shape depending on how they are used).
+
+## Remodeling process
+
+
+## Posibles referencias
+
+Metabolismo óseo - Rang y Dale. Farmacología - en clinical medical student. 
+https://www.nature.com/articles/s44324-024-00010-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7729585/
