@@ -2,7 +2,7 @@
 title: "Medical writing"
 ---
 
-Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity, structure and accuracy.
+Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity and accuracy.
 
 Medical writing is an extensive field, which may include, among others:
 
@@ -10,7 +10,9 @@ Medical writing is an extensive field, which may include, among others:
 - Health communication for the general public, where explaining complex topics in a simple but rigorous manner is required.
 - Content creation for health startups and companies.
 
-In this portfolio, I include five pieces with different styles:
+&nbsp;
+
+Medical writing pieces:
 
 - [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to healthcare professionals and students.
 - [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
