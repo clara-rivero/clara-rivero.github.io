@@ -1,26 +1,61 @@
 ---
 title: "Bone metabolism"
-# format:
-#   html:
-#     bibliography: references/bone-metabolism.bib
-#     csl: american-medical-association.csl
-#     link-citations: true  
+format:
+  html:
+    bibliography: references/bone-metabolism.bib
+    csl: american-medical-association.csl
+    link-citations: true  
 ---
 
 ## Introduction
-Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. 
+Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone.  A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year.
 
-Why do women tend to develop bone issues during menopause? What is the role of vitamin D in bone creation? Why is it recommended to practice physical exercise to keep bones strong? Throughout this article, we will explore these questions in detail.
-
+This article exposes the mechanism of bone remodelling and the main factors that regulate it: hormones, nutrients, sun exposure and physical exercise.
 
 ## Bone composition and properties
 Bone is a highly vascularized tissue composed of bone cells embedded in a mineralized organic matrix, which consists mainly of hydroxypatite (Ca₁₀(PO₄)₆(OH)₂), responsible for its stiffness, and collagen fibers, which contribute to its resilience. This combination makes bones hard to deform but not fragile. Regarding its cells:
 
 - **Osteoblasts** promote bone formation by the synthesis of collagen and other components of the extracellular matrix. 
-- **Osteocytes** derive from osteoblasts. In particular, osteoblasts differentiate to osteocytes when they get trapped in the newly synthesized bone matrix. They are responsible for the mechanotransduction of bone (its response to mechanical signals) and the secretion of esclerotin, which inhibits bone formation.
-- **Osteoclasts** are responsible for bone resorption, resulting in the breaking down of the tissue and the release of calcium and phosphate to the bloodstream. This process is essential in a healthy bone, as it allows for the removal of old bone and its adaptation to new mechanical loads (bones can change shape depending on how they are used).
+- **Osteocytes** derive from osteoblasts. In particular, osteoblasts differentiate to osteocytes when they get trapped in the newly synthesized bone matrix. They are responsible for the mechanotransduction of bone (its response to mechanical signals) and the secretion of sclerostin, a protein which inhibits bone formation.
+- **Osteoclasts** are responsible for bone resorption, resulting in the breaking down of the tissue and the release of calcium and phosphate to the bloodstream. This process is essential in a healthy bone, as it allows for the removal of old and damaged bone and its adaptation to new mechanical loads (bones can change shape depending on how they are used).
 
 ## Remodeling process
+The remodeling cycle relies on a close coordination between cells and signaling pathways. In a nutshell, it follows these steps: 
+
+1. Recruitment of preosteoclasts to the target bone area and differentiation into mature, active osteoclasts.
+
+2. Lytic activity of osteoclasts and the consequent destruction of bone. This process releases growth factors that were trapped in the bone matrix, such as transforming growth factor beta (TGF-β) and insulin-like growth factor I (IGF-I), which then recruit preosteoblasts.
+
+3. Recruitment of preosteblasts and differentiation into active osteoblasts, which synthesize new bone. Secretion of IGF-I and TGF-β which get integrated in the newly synthesized bone matrix. Some osteoblasts differentiate into osteocytes, others interact with preosteoclasts triggering the cycle.
+
+## Bone remodeling regulation
+The recruitment of osteoclasts is regulated primarily by osteoblasts. Osteoblasts are able to express RANK ligand (RANKL) on their membrane surfaces, which interacts with RANK, a receptor on the osteoclasts membranes. This binding triggers the differentiation of preosteclasts into active osteoclasts. However, osteoblasts are also able to produce  osteoprotegerin (OPG), which competes with RANKL for the binding to RANK, decreasing the activation of osteoclasts. Therefore, RANKL/OPG ratio determines the physiological balance of bone formation and turnover. If the ratio is high, this means RANKL>OPG and resorption is favored (for example, at the beginning of the cycle), and if OPG>RANKL, resorption is not favored and the bone is in a formation phase. 
+
+In addition, osteocytes produce sclerostin, which inhibits osteoblast activity and indirectly affects bone formation, decreasing it.
+
+## Influence of hormones
+Some of the hormones that interfere in the bone remodelling process are listed.
+
+- Estrogens: steroids sex hormones, abundant in females, which promote bone growth by stimulating the production of OPG by osteoblasts. Estrogens decline during menopause is tightly associated to bone loss and the developmnet of osteoporosis. 
+
+- Parathyroid hormone (PTH): it is produced in the parathyroids glands in response to hypocalcemia, stimulating bone resorption and the release of calcium into the bloodstream.
+
+- Calcitionin: it is synthesized by the C cells of the thyroid and inhibits bone resorption by reducing the number and activity of osteoclasts.
+
+## Influence of nutrition and sun exposure
+The uptake of key nutrients of bone, including vitamin D and calcium, affects bone mass.
+
+More than 99% of the organism calcium is stored in our bones, forming hydroxiapatite. Keeping calcium levels in an optimal range is crucial as it interferes in other vital functions such as muscular contraction. If not enough calcium is taken through the diet, PTH secretion will increase and therefore the resorpton of bone. 
+
+On the other hand, vitamin D, produced by oud body by sun exposure and also presence in some products such as eggs or fatty fishes, contributes to calcium absorption indirectly promoting bone growth.It is also associated to the estimulation of the expression of RANKL by osteoblats, which contribute to bone resoprtion, but the balance tilds to more bone growth.
+
+## Influence of physical exercise
+Osteocytes are able to sense mechanical stimulus, reducing the synthesis of esclerotin and therefore promoting bone growth.Therefore, physical exercise it is highly encouraged to keep bone mass in order. 
+
+
+## Conclusion
+Bone metabolism is a complex process which involves the coordination of different cells and signaling pathways. Sun exposure, a diet rich in calcium, physical exercise and adequate hormonal levels can help us keep our bones healthy.
+
 
 
 ## Posibles referencias
@@ -28,3 +63,13 @@ Bone is a highly vascularized tissue composed of bone cells embedded in a minera
 Metabolismo óseo - Rang y Dale. Farmacología - en clinical medical student. 
 https://www.nature.com/articles/s44324-024-00010-9
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7729585/
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8267676/
+https://scielo.isciii.es/pdf/medicorpa/v11n2/en_12.pdf
+https://www.nature.com/articles/s41598-017-06614-0
+
+estrogen: 
+https://pubmed.ncbi.nlm.nih.gov/12633785/, 
+
+physical exercise:
+https://www.sciencedirect.com/science/article/pii/S0021925820573055
