@@ -8,7 +8,7 @@ format:
 ---
 
 ## Introduction
-Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone.  A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year.
+Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year.
 
 This article exposes the mechanism of bone remodelling and the main factors that regulate it: hormones, nutrients, sun exposure and physical exercise.
 
@@ -26,12 +26,12 @@ The remodeling cycle relies on a close coordination between cells and signaling 
 
 2. Lytic activity of osteoclasts and the consequent destruction of bone. This process releases growth factors that were trapped in the bone matrix, such as transforming growth factor beta (TGF-β) and insulin-like growth factor I (IGF-I), which then recruit preosteoblasts.
 
-3. Recruitment of preosteblasts and differentiation into active osteoblasts, which synthesize new bone. Secretion of IGF-I and TGF-β which get integrated in the newly synthesized bone matrix. Some osteoblasts differentiate into osteocytes, others interact with preosteoclasts triggering the cycle.
+3. Recruitment of preosteblasts and differentiation into active osteoblasts, which synthesize new bone. IGF-I and TGF-β are secreted and become integrated into the newly formed bone matrix. Some osteoblasts differentiate into osteocytes, others interact with preosteoclasts triggering the cycle.
 
 ## Bone remodeling regulation
-The recruitment of osteoclasts is regulated primarily by osteoblasts. Osteoblasts are able to express RANK ligand (RANKL) on their membrane surfaces, which interacts with RANK, a receptor on the osteoclasts membranes. This binding triggers the differentiation of preosteclasts into active osteoclasts. However, osteoblasts are also able to produce  osteoprotegerin (OPG), which competes with RANKL for the binding to RANK, decreasing the activation of osteoclasts. Therefore, RANKL/OPG ratio determines the physiological balance of bone formation and turnover. If the ratio is high, this means RANKL>OPG and resorption is favored (for example, at the beginning of the cycle), and if OPG>RANKL, resorption is not favored and the bone is in a formation phase. 
+The recruitment of osteoclasts is regulated primarily by osteoblasts. Osteoblasts express RANK ligand (RANKL) on their membrane surfaces, which interacts with RANK, a receptor on osteoclasts membranes. This binding triggers the differentiation of preosteoclasts into active osteoclasts. However, osteoblasts also produce osteoprotegerin (OPG), which competes with RANKL for the binding to RANK, decreasing the activation of osteoclasts. Therefore, the RANKL/OPG ratio determines the physiological balance of bone formation and turnover. A high ratio (RANKL>OPG) favors reception - for example, at the beginning of the cycle-, and a low ratio (OPG>RANK) indicates resorption is inhibited and the bone is in a formation phase. 
 
-In addition, osteocytes produce sclerostin, which inhibits osteoblast activity and indirectly affects bone formation, decreasing it.
+In addition, osteocytes produce sclerostin, a protein that inhibits osteoblast activity decreasing bon formation.
 
 ## Influence of hormones
 Some of the hormones that interfere in the bone remodelling process are listed.
