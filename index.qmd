@@ -1,19 +1,10 @@
 ---
-title: "Healthcare, Communication, Design"
+title: "Medical Articles"
 ---
+Welcome! I’m a medical student and biomedical engineer. Here I share medical topics through writing and illustrations.
 
-Welcome to my website.
-
-I’m a medical student and biomedical engineer, passionate about healthcare, communication and design. 
-
-I offer freelance services in medical writing and visual content creation. I speak fluent English, native Spanish and intermediate German (B2).
-
-Feel free to contact me, let's collaborate together! [Contact](contact.qmd){.main-link}
-
-You can explore some of my articles and visuals from the left sidebar or clicking directly below:
-
-- [Medical writing and related visuals](medical-writing.qmd){.main-link}
-
-I'm also open to feedback and always happy to connect. Thank you.
-
-*You can view my full CV by clicking the LinkedIn icon above.*
+- [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Adressed to professionals.
+- [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
+- [Eye care essentials.](medical-writing/eyes-infographic.qmd){.main-link} Infographic.
+- [Stop making excuses: prioritize your sleep.](medical-writing/rest-copywriting.qmd){.main-link} Copywriting article.
+- [CO poisoning.](medical-writing/co-poisoning.qmd){.main-link} Educational article.
