@@ -192,6 +192,20 @@
     ]
   },
   {
+    "objectID": "medical-writing.html",
+    "href": "medical-writing.html",
+    "title": "Medical writing",
+    "section": "",
+    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\n \nMedical writing pieces:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.\nCO poisoning. An educational article for biochemistry students or interested readers."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Medical Articles",
+    "section": "",
+    "text": "Welcome! I’m a medical student and biomedical engineer. Here I share medical topics through writing and illustrations.\n\nType 2 diabetes: a comprehensive literature review. Addressed to professionals.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. Infographic.\nStop making excuses: prioritize your sleep. Copywriting article.\nCO poisoning. Educational article.\nBone metabolism. Article."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -199,18 +213,94 @@
     "text": "You can contact me via:\n\nEmail: clara.rivero.rdgz@gmail.com\nLinkedIn: linkedin.com/in/clarariverorodriguez"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Medical Articles",
+    "objectID": "medical-writing/bone-metabolism.html",
+    "href": "medical-writing/bone-metabolism.html",
+    "title": "Bone metabolism",
     "section": "",
-    "text": "Welcome! I’m a medical student and biomedical engineer. Here I share medical topics through writing and illustrations.\n\nType 2 diabetes: a comprehensive literature review. Addressed to professionals.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. Infographic.\nStop making excuses: prioritize your sleep. Copywriting article.\nCO poisoning. Educational article."
+    "text": "Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year.\nThis article exposes the mechanism of bone remodelling and the main factors that regulate it: hormones, nutrients and physical exercise.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
   },
   {
-    "objectID": "medical-writing.html",
-    "href": "medical-writing.html",
-    "title": "Medical writing",
+    "objectID": "medical-writing/bone-metabolism.html#introduction",
+    "href": "medical-writing/bone-metabolism.html#introduction",
+    "title": "Bone metabolism",
     "section": "",
-    "text": "Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity and accuracy.\nMedical writing is an extensive field, which may include, among others:\n\nUp-to-date technical information for healthcare professionals or students.\nHealth communication for the general public, where explaining complex topics in a simple but rigorous manner is required.\nContent creation for health startups and companies.\n\n \nMedical writing pieces:\n\nType 2 diabetes: a comprehensive literature review. Addressed to healthcare professionals and students.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. An infographic which may be delivered by an eye health company or organization.\nStop making excuses: prioritize your sleep. A copywriting article which aims to encourage good sleeping habits.\nCO poisoning. An educational article for biochemistry students or interested readers."
+    "text": "Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year.\nThis article exposes the mechanism of bone remodelling and the main factors that regulate it: hormones, nutrients and physical exercise.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#bone-composition-and-properties",
+    "href": "medical-writing/bone-metabolism.html#bone-composition-and-properties",
+    "title": "Bone metabolism",
+    "section": "Bone composition and properties",
+    "text": "Bone composition and properties\nBone is a highly vascularized tissue composed of bone cells embedded in a mineralized organic matrix, which consists mainly of hydroxypatite (Ca₁₀(PO₄)₆(OH)₂), responsible for its stiffness, and collagen fibers, which contribute to its resilience1. This combination makes bones hard to deform but not fragile. Regarding its cells1:\n\nOsteoblasts promote bone formation by the synthesis of collagen and other components of the extracellular matrix.\nOsteocytes derive from osteoblasts. In particular, osteoblasts differentiate to osteocytes when they get trapped in the newly synthesized bone matrix. They are responsible for the mechanotransduction of bone (its response to mechanical signals).\nOsteoclasts are responsible for bone resorption, resulting in the breaking down of the tissue and the release of calcium and phosphate to the bloodstream. This process is essential in a healthy bone: it allows for the removal of old and damaged bone and its adaptation to new mechanical loads (bones can change shape depending on how they are used).",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#remodelling-process",
+    "href": "medical-writing/bone-metabolism.html#remodelling-process",
+    "title": "Bone metabolism",
+    "section": "Remodelling process",
+    "text": "Remodelling process\nThe remodelling cycle relies on a close coordination between cells and signaling pathways. It follows these steps2:\n\nRecruitment of preosteoclasts to the target bone area and differentiation into mature, active osteoclasts.\nLytic activity of osteoclasts and the consequent destruction of bone. This process releases growth factors that were trapped in the bone matrix, such as transforming growth factor beta (TGF-β) and insulin-like growth factor I (IGF-I), which then recruit preosteoblasts.\nRecruitment of preosteblasts and differentiation into active osteoblasts, which synthesize new bone. IGF-I and TGF-β are secreted and become integrated into the newly formed bone matrix. Some osteoblasts differentiate into osteocytes, others interact with preosteoclasts triggering the cycle.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#bone-remodelling-regulation",
+    "href": "medical-writing/bone-metabolism.html#bone-remodelling-regulation",
+    "title": "Bone metabolism",
+    "section": "Bone remodelling regulation",
+    "text": "Bone remodelling regulation\nThe recruitment of osteoclasts is regulated primarily by osteoblasts. Osteoblasts express RANK ligand (RANKL) on their membrane surfaces, which interacts with RANK, a receptor on osteoclasts membranes. This binding triggers the differentiation of preosteoclasts into active osteoclasts. However, osteoblasts also produce osteoprotegerin (OPG), which competes with RANK for the binding to RANKL, decreasing the activation of osteoclasts. Therefore, the RANKL/OPG ratio is an indicator of the physiological balance of bone remodeling. A high ratio (RANKL&gt;OPG) favors resorption (for example, at the beginning of the cycle), and a low ratio (OPG&gt;RANK) corresponds to inhibited resorption and a bone formation phase2.\n\n\n\n\n\n\n\nFigure 1: Remodelling process and RANK-RANKL interaction. The dark brown represents the newly synthesized bone, still not mineralized.\n\n\n\n\nIn addition, osteocytes produce sclerostin, a protein that inhibits osteoblast activity decreasing bone formation3.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#influence-of-hormones",
+    "href": "medical-writing/bone-metabolism.html#influence-of-hormones",
+    "title": "Bone metabolism",
+    "section": "Influence of hormones",
+    "text": "Influence of hormones\nBone health is conditioned by the proper functioning of the hormonal system. The main hormones that interfere are:\n\nEstrogens: sex steroid hormones, abundant in females, which promote bone growth by increasing the number and function of osteoblasts and stimulating their production of OPG. Estrogen decline during menopause is tightly associated to bone loss and the development of osteoporosis4.\nParathyroid hormone (PTH): secreted by the parathyroid glands in response to hypocalcemia, stimulating bone resorption and the release of calcium into the bloodstream5.\nCalcitonin: synthesized by the C cells of the thyroid in response to hypercalcemia. It inhibits bone resorption by reducing the number and activity of osteoclasts5.\nCalcitriol (active form of vitamin D): vitamin D, obtained through sun exposure or diet (eggs, fatty fish…) is transformed into calcitriol, a hormone that promotes calcium and phosphate absorption in the intestines, crucial for bone mineralization. It also promotes the activity of osteoclasts, but overall it supports bone formation5.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#influence-of-nutrients",
+    "href": "medical-writing/bone-metabolism.html#influence-of-nutrients",
+    "title": "Bone metabolism",
+    "section": "Influence of nutrients",
+    "text": "Influence of nutrients\nCalcium is indispensable for the mineralization of bone. More than 99% of the body’s calcium is stored in the skeleton, forming hydroxyapatite. Maintaining optimal calcium levels is also crucial for other vital functions, such as muscle contraction. If our dietary calcium intake is insufficient, PTH secretion increases, leading to enhanced bone resorption5.\nSun exposure or vitamin D intake is also required for a proper bone mineralization as described in the previous section.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#influence-of-physical-exercise",
+    "href": "medical-writing/bone-metabolism.html#influence-of-physical-exercise",
+    "title": "Bone metabolism",
+    "section": "Influence of physical exercise",
+    "text": "Influence of physical exercise\nOsteocytes are able to sense mechanical stimulus, reducing sclerostin synthesis and promoting bone growth. Consequently, physical exercise is highly recommended to preserve bone mass3.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
+  },
+  {
+    "objectID": "medical-writing/bone-metabolism.html#conclusion",
+    "href": "medical-writing/bone-metabolism.html#conclusion",
+    "title": "Bone metabolism",
+    "section": "Conclusion",
+    "text": "Conclusion\nBone metabolism is a complex process that involves the coordination of osteoblasts, osteoclasts and osteocytes, regulated by hormones such as PTH, calcitonin, estrogens and calcitriol. Sun exposure, regular physical exercise and adequate calcium intake can help us keep our bones healthy and prevent bones disorders such as osteoporosis.",
+    "crumbs": [
+      "Bone metabolism · Article"
+    ]
   },
   {
     "objectID": "medical-writing/co-poisoning.html",
