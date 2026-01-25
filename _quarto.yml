@@ -32,6 +32,8 @@ website:
         href: medical-writing/rest-copywriting.qmd
       - text: "CO poisoning · Article"
         href: medical-writing/co-poisoning.qmd
+      - text: "Bone metabolism · Article"
+        href: medical-writing/bone-metabolism.qmd
 
 format:
   html:
