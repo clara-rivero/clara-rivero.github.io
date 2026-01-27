@@ -8,19 +8,19 @@ format:
 ---
 
 ## Introduction
-Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrum is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year.
+Bone tissue is in a constant state of remodeling: resorption of old bone and formation of new bone. A proper balance between both processes is crucial for bone health. This delicate equilibrium is tightly regulated and influenced by multiple factors such as physical exercise, hormonal status, and nutrient and vitamin availability. Under normal conditions, 5-10% of our total bone volume is renewed per year [@Fernandez-Tresguerres2006].
 
-This article exposes the mechanism of bone remodelling and the main factors that regulate it: hormones, nutrients and physical exercise.
+This article exposes the mechanism of bone remodeling and the main factors that regulate it: hormones, nutrients and physical exercise.
 
 ## Bone composition and properties
-Bone is a highly vascularized tissue composed of bone cells embedded in a mineralized organic matrix, which consists mainly of hydroxypatite (Ca₁₀(PO₄)₆(OH)₂), responsible for its stiffness, and collagen fibers, which contribute to its resilience [@Choi2024]. This combination makes bones hard to deform but not fragile. Regarding its cells[@Choi2024]:
+Bone is a highly vascularized tissue composed of bone cells embedded in a mineralized organic matrix, which consists mainly of hydroxyapatite (Ca₁₀(PO₄)₆(OH)₂), responsible for its stiffness, and collagen fibers, which contribute to its resilience [@Choi2024]. This combination makes bones hard to deform but not fragile. Regarding its cells[@Choi2024]:
 
 - **Osteoblasts** promote bone formation by the synthesis of collagen and other components of the extracellular matrix. 
 - **Osteocytes** derive from osteoblasts. In particular, osteoblasts differentiate to osteocytes when they get trapped in the newly synthesized bone matrix. They are responsible for the mechanotransduction of bone (its response to mechanical signals).
 - **Osteoclasts** are responsible for bone resorption, resulting in the breaking down of the tissue and the release of calcium and phosphate to the bloodstream. This process is essential in a healthy bone: it allows for the removal of old and damaged bone and its adaptation to new mechanical loads (bones can change shape depending on how they are used).
 
-## Remodelling process
-The remodelling cycle relies on a close coordination between cells and signaling pathways. It follows these steps
+## Remodeling process
+The remodeling cycle relies on a close coordination between cells and signaling pathways. It follows these steps
 [@Ritter2024_MetabolismoOseo]: 
 
 1. Recruitment of preosteoclasts to the target bone area and differentiation into mature, active osteoclasts.
@@ -29,11 +29,11 @@ The remodelling cycle relies on a close coordination between cells and signaling
 
 3. Recruitment of preosteblasts and differentiation into active osteoblasts, which synthesize new bone. IGF-I and TGF-β are secreted and become integrated into the newly formed bone matrix. Some osteoblasts differentiate into osteocytes, others interact with preosteoclasts triggering the cycle.
 
-## Bone remodelling regulation
+## Bone remodeling regulation
 The recruitment of osteoclasts is regulated primarily by osteoblasts. Osteoblasts express RANK ligand (RANKL) on their membrane surfaces, which interacts with RANK, a receptor on osteoclasts membranes. This binding triggers the differentiation of preosteoclasts into active osteoclasts. However, osteoblasts also produce osteoprotegerin (OPG), which competes with RANK for the binding to RANKL, decreasing the activation of osteoclasts. Therefore, the RANKL/OPG ratio is an indicator of the physiological balance of bone remodeling. A high ratio (RANKL>OPG) favors resorption (for example, at the beginning of the cycle), and a low ratio (OPG>RANK) corresponds to inhibited resorption and a bone formation phase [@Ritter2024_MetabolismoOseo].
 
 ::: {.custom-figure}
-![Remodelling process and RANK-RANKL interaction. The dark brown represents the newly synthesized bone, still not mineralized.](images/bone_metabolism.png){#fig-bloqueada}
+![Remodeling process and RANK-RANKL interaction. The dark brown represents the newly synthesized bone, still not mineralized.](images/bone_metabolism.png){#fig-bloqueada}
 :::
 
 In addition, osteocytes produce sclerostin, a protein that inhibits osteoblast activity decreasing bone formation [@Robling2008_sclerostin].
