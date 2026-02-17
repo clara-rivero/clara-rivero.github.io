@@ -1,14 +1,14 @@
 ---
 title: "Carpal tunnel syndrome"
 ---
-## Illustrations
+## Illustration
 ::: {.custom-figure-2}
 ![Carpal tunnel syndrome.](images/carpal-tunnel/carpal_tunnel_hand.svg){#fig-bloqueada}
 :::
 
-::: {.custom-figure-4}
+<!-- ::: {.custom-figure-4}
 ![Surgical intervention.](images/carpal-tunnel/carpal_tunnel_surgery.svg){#fig-bloqueada}
-:::
+::: -->
 
 ## Use case: Infographic
 ::: {.custom-figure-2}
