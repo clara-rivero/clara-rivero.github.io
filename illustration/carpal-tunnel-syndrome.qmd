@@ -12,5 +12,5 @@ title: "Carpal tunnel syndrome"
 
 ## Use case: Infographic
 ::: {.custom-figure-2}
-![Carpal tunnel infographic.](images/carpal-tunnel/carpal_tunnel_infographic.svg){#fig-bloqueada}
+![Carpal tunnel syndrome infographic.](images/carpal-tunnel/carpal_tunnel_infographic.svg){#fig-bloqueada}
 :::
