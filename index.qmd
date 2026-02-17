@@ -1,18 +1,21 @@
 ---
-title: "Medical Articles"
+title: "Scientific illustration & healthcare communication"
 ---
-Welcome! I’m a medical student and biomedical engineer. Here I share medical topics through writing and illustrations.
-
-Selection:
-
-- [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to professionals.
-- [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
-- [Eye care essentials.](medical-writing/eyes-infographic.qmd){.main-link} Infographic.
-- [Stop making excuses: prioritize your sleep.](medical-writing/rest-copywriting.qmd){.main-link} Copywriting article.
-- [CO poisoning.](medical-writing/co-poisoning.qmd){.main-link} Educational article.
+Welcome to my website. I can help you with rigorous and appealing visuals and evidence-based content, so that your company's impact doesn't go unnoticed. 
 
 &nbsp;
 
-More articles:
+**Would you like to have a custom set of illustrations that truly represent your vision and technology?**    
+Among AI-generated content and all the media noise, they make a huge difference. In any situation (internal or investor presentations, scientific posters, blog posts...), customized visuals convey a professional image and a polished communication strategy. Check out some sample projects:  
+ - [Scientific illustration](illustration.qmd){.main-link}
 
-- [Bone metabolism.](medical-writing/bone-metabolism.qmd){.main-link}
+&nbsp;
+
+**Are you looking for flexible scientific support for your business?**    
+I can help you reduce your workload by providing reliable research assistance, literature reviews and content creation adapted to the communication purpose: divulgation, promotion, internal documentation...I write about medicine here:  
+ -  [Medical writing](medical-writing.qmd){.main-link}
+
+&nbsp;
+
+I’m a biomedical engineer currently pursuing a degree in medicine. I have worked in fast-paced environments and adapt quickly to different needs. Let's collaborate! [Contact](contact.qmd){.main-link}
+

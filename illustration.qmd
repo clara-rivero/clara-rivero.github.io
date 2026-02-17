@@ -1,0 +1,10 @@
+---
+title: "Scientific illustration"
+---
+Here I include a variety of illustrations, adapted to different styles and purposes.
+
+## Medical education
+- [Carpal tunnel syndrome.](illustration/carpal-tunnel-syndrome.qmd){.main-link} Designed for an infographic.
+
+## Biotech
+- [CAR-T.](illustration/car-t.qmd){.main-link} Designed for a presentation.

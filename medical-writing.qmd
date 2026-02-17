@@ -2,20 +2,16 @@
 title: "Medical writing"
 ---
 
-Health matters to all of us. In a fast-changing, technology-driven world where a vast amount of information is at our fingertips, there is a growing need for clarity and accuracy.
+Selection:
 
-Medical writing is an extensive field, which may include, among others:
-
-- Up-to-date technical information for healthcare professionals or students.
-- Health communication for the general public, where explaining complex topics in a simple but rigorous manner is required.
-- Content creation for health startups and companies.
+- [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to professionals.
+- [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
+- [Eye care essentials.](medical-writing/eyes-infographic.qmd){.main-link} Infographic.
+- [Stop making excuses: prioritize your sleep.](medical-writing/rest-copywriting.qmd){.main-link} Copywriting article.
+- [CO poisoning.](medical-writing/co-poisoning.qmd){.main-link} Educational article.
 
 &nbsp;
 
-Medical writing pieces:
+More articles:
 
-- [Type 2 diabetes: a comprehensive literature review.](medical-writing/diabetes-review.qmd){.main-link} Addressed to healthcare professionals and students.
-- [Cholesterol practical guide.](medical-writing/cholesterol-guide.qmd){.main-link} Addressed to the general public.
-- [Eye care essentials.](medical-writing/eyes-infographic.qmd){.main-link} An infographic which may be delivered by an eye health company or organization.
-- [Stop making excuses: prioritize your sleep.](medical-writing/rest-copywriting.qmd){.main-link} A copywriting article which aims to encourage good sleeping habits.
-- [CO poisoning.](medical-writing/co-poisoning.qmd){.main-link} An educational article for biochemistry students or interested readers.
+- [Bone metabolism.](medical-writing/bone-metabolism.qmd){.main-link}

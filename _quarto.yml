@@ -22,18 +22,28 @@ website:
     search: true 
     collapse-level: 2
     contents:
-      - text: "Diabetes · Literature review"
-        href: medical-writing/diabetes-review.qmd
-      - text: "Cholesterol · Practical guide"
-        href: medical-writing/cholesterol-guide.qmd
-      - text: "Visual health · Infographic"
-        href: medical-writing/eyes-infographic.qmd
-      - text: "Sleep · Copywriting"
-        href: medical-writing/rest-copywriting.qmd
-      - text: "CO poisoning · Article"
-        href: medical-writing/co-poisoning.qmd
-      - text: "Bone metabolism · Article"
-        href: medical-writing/bone-metabolism.qmd
+      - section: "Scientific illustration"
+        href: illustration.qmd
+        contents:
+          - text: "Carpal tunnel syndrome"
+            href: illustration/carpal-tunnel-syndrome.qmd
+          - text: "CAR-T Therapy"
+            href: illustration/car-t.qmd
+      - section: "Medical writing"
+        href: medical-writing.qmd
+        contents:
+          - text: "Diabetes · Literature review"
+            href: medical-writing/diabetes-review.qmd
+          - text: "Cholesterol · Practical guide"
+            href: medical-writing/cholesterol-guide.qmd
+          - text: "Visual health · Infographic"
+            href: medical-writing/eyes-infographic.qmd
+          - text: "Sleep · Copywriting"
+            href: medical-writing/rest-copywriting.qmd
+          - text: "CO poisoning · Article"
+            href: medical-writing/co-poisoning.qmd
+          - text: "Bone metabolism · Article"
+            href: medical-writing/bone-metabolism.qmd
 
 format:
   html:
