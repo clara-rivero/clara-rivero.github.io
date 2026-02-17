@@ -6,7 +6,7 @@ title: "Carpal tunnel syndrome"
 ![Carpal tunnel syndrome.](images/carpal-tunnel/carpal_tunnel_hand.svg){#fig-bloqueada}
 :::
 
-::: {.custom-figure}
+::: {.custom-figure-4}
 ![Surgical intervention.](images/carpal-tunnel/carpal_tunnel_surgery.svg){#fig-bloqueada}
 :::
 
