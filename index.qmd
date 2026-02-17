@@ -5,8 +5,8 @@ Welcome to my website. I can help you with rigorous and appealing visuals and ev
 
 &nbsp;
 
-**Would you like to have a custom set of illustrations that truly represent your vision and technology?**    
-Among AI-generated content and all the media noise, they make a huge difference. In any situation (internal or investor presentations, scientific posters, blog posts...), customized visuals convey a professional image and a polished communication strategy. Check out some sample projects:  
+**Would you like to have a custom set of illustrations that truly represent your vision and science?**    
+Among AI-generated content and all the media noise, customized visuals make a huge difference. In any situation (internal or investor presentations, scientific posters, blog posts...), they convey a professional image and a polished communication strategy. Check out some sample projects:  
  - [Scientific illustration](illustration.qmd){.main-link}
 
 &nbsp;
