@@ -240,3 +240,22 @@ main a.main-link:hover {
     width: 100%;
   }
 }
+
+.custom-figure-4 {
+  text-align: justify; 
+}
+
+/* Imagen dentro del contenedor */
+.custom-figure-4 img {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Movile responsive */
+@media (max-width: 768px) {
+  .custom-figure-4 img {
+    width: 75%;
+  }
+}
