@@ -201,3 +201,42 @@ main a.main-link:hover {
     width: 100%;
   }
 }
+/* Contenedor de la figura 2 - para el caption */
+.custom-figure-2 {
+  text-align: justify; 
+}
+
+/* Imagen dentro del contenedor de la figura 2 (que ocupe todo el espacio) */
+.custom-figure-2 img {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Movile responsive figura 2 */
+@media (max-width: 768px) {
+  .custom-figure-2 img {
+    width: 100%;
+  }
+}
+
+/* Contenedor de la figura 3 - para el caption */
+.custom-figure-3 {
+  text-align: justify; 
+}
+
+/* Imagen dentro del contenedor de la figura 3 (que ocupe todo el espacio) */
+.custom-figure-3 img {
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Movile responsive figura 3 */
+@media (max-width: 768px) {
+  .custom-figure-3 img {
+    width: 100%;
+  }
+}

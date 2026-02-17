@@ -1,0 +1,33 @@
+---
+title: "CAR-T Therapy"
+---
+
+## Illustrations
+::: {.custom-figure-2}
+![Patient's T-cells are extracted in a routinary 
+blood test.](images/car-t/blood_test.svg){#fig-bloqueada}
+:::
+
+::: {.custom-figure}
+![A retrovirus with an antitumoral gene is designed.](images/car-t/retrovirus.svg){#fig-bloqueada}
+:::
+
+::: {.custom-figure-2}
+![Patient’s T-cells are infected by the retrovirus and genetically modified to express the antitumoral protein.](images/car-t/genetic_modification.svg){#fig-bloqueada}
+:::
+
+::: {.custom-figure-3}
+![Antitumoral T-cells are proliferated in lab.](images/car-t/cells_proliferation.svg){#fig-bloqueada}
+:::
+
+::: {.custom-figure-2}
+![Patient receives these T-cells, which target and destroy tumor cells.](images/car-t/treatment.svg){#fig-bloqueada}
+:::
+
+## Use case: Slides for a presentation
+::: {.custom-figure-2}
+![Slide 1: CAR-T technology](images/car-t/car-t_slide1.svg){#fig-bloqueada}
+:::
+::: {.custom-figure-2}
+![Slide 2: CAR-T technology](images/car-t/car-t_slide2.svg){#fig-bloqueada}
+:::
