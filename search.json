@@ -1,65 +1,121 @@
 [
   {
-    "objectID": "illustration/car-t.html",
-    "href": "illustration/car-t.html",
-    "title": "CAR-T Therapy",
+    "objectID": "design/dental-clinic-landing.html",
+    "href": "design/dental-clinic-landing.html",
+    "title": "Dental clinic landing page",
     "section": "",
-    "text": "Figure 1: Patient’s T-cells are extracted in a routinary blood test.\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: A retrovirus with an antitumoral gene is designed.\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Patient’s T-cells are infected by the retrovirus and genetically modified to express the antitumoral protein.\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Antitumoral T-cells are proliferated in lab.\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Patient receives these T-cells, which target and destroy tumor cells.",
-    "crumbs": [
-      "Scientific illustration",
-      "CAR-T Therapy"
-    ]
+    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma."
   },
   {
-    "objectID": "illustration/car-t.html#illustrations",
-    "href": "illustration/car-t.html#illustrations",
-    "title": "CAR-T Therapy",
+    "objectID": "design/dental-clinic-landing.html#introduction",
+    "href": "design/dental-clinic-landing.html#introduction",
+    "title": "Dental clinic landing page",
     "section": "",
-    "text": "Figure 1: Patient’s T-cells are extracted in a routinary blood test.\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: A retrovirus with an antitumoral gene is designed.\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Patient’s T-cells are infected by the retrovirus and genetically modified to express the antitumoral protein.\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Antitumoral T-cells are proliferated in lab.\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Patient receives these T-cells, which target and destroy tumor cells.",
-    "crumbs": [
-      "Scientific illustration",
-      "CAR-T Therapy"
-    ]
+    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma."
   },
   {
-    "objectID": "illustration/car-t.html#use-case-slides-for-a-presentation",
-    "href": "illustration/car-t.html#use-case-slides-for-a-presentation",
-    "title": "CAR-T Therapy",
-    "section": "Use case: Slides for a presentation",
-    "text": "Use case: Slides for a presentation\n\n\n\n\n\n\n\nFigure 6: Slide 1: CAR-T technology\n\n\n\n\n\n\n\n\n\n\n\nFigure 7: Slide 2: CAR-T technology",
-    "crumbs": [
-      "Scientific illustration",
-      "CAR-T Therapy"
-    ]
+    "objectID": "design/dental-clinic-landing.html#ui-design-justification",
+    "href": "design/dental-clinic-landing.html#ui-design-justification",
+    "title": "Dental clinic landing page",
+    "section": "UI Design justification",
+    "text": "UI Design justification\n\nColor palette\nThe target values to convey were: professionalism, cleanliness, trust and health. I chose a color palette based on: white, black, soft blues and coral. White and soft blues are associated with hygiene and calmness, black conveys professionalism and the colar tone resembles the natural color of healthy gums, adding a welcoming touch to the layout.\n\n\nTypography\nI selected Gloock and Gulzar as the primary typefaces, to reinforce the professional visual identity of the dental clinic. Gloock is characterized by its elegant curves and strong strokes, which makes it suitable for the headings and key textual elements. Gluzar, on the other hand, is simpler and enhances readibility, so it was applied in the body text. Both share similarities - visual harmony is maintained.\nFor call-to-action buttons, I used Inter, a modern sans-serif typeface, very legible, which invites for interaction.\n\n\nImages and iconography\nThe logo and the images were created by me. The logo initially began as a representation of the top view of a molar, but it evolved into a simpler version consisting of oblique rectangles representing vertical shadows. This minimal adaptation worked better for mobile responsiveness while aligning with the elegance and simplicity of the overall design.\nSince this is a fictional project, I didn’t have access to real images of a dental clinic. Instead, I represented the types of images I would include in each section. The first image, for example, could feature a smiling family to create a welcoming first impression. The following two images would ideally show portraits of the clinic’s doctors to help build trust."
   },
   {
-    "objectID": "illustration.html",
-    "href": "illustration.html",
-    "title": "Scientific illustration",
+    "objectID": "design/dental-clinic-landing.html#ux-design-justification",
+    "href": "design/dental-clinic-landing.html#ux-design-justification",
+    "title": "Dental clinic landing page",
+    "section": "UX Design justification",
+    "text": "UX Design justification\n\nLayout and user flow\nThe structure follows a logical and easy-to-navigate order that prioritizes quick access to essential information without overwhelming the reader.\nThe header includes the logo and buttons that link to the corresponding sections on the same page. The “Contact” button features bold text, is accompanied by a mouse pointer icon, and is positioned at the top right to draw attention and encourage user interaction.\nThe hero section displays a happy and healthy family, reflecting the clinic’s core patients and values. Its message, summarized in three lines, reinforces the promotion of dental health and the offering for help.\nIn a clinical environment, it is crucial for visitors to know who is in charge and why they can be trusted. The team section addresses this by showcasing the doctors’ qualifications, personal photos, and professional experience. Trust is further reinforced by a dedicated reviews section, featuring patient testimonials and highlighting the clinic’s key strengths.\nFinally, the contact information is placed at the bottom of the page, following a common and intuitive structure. Since the website is short and this setion is inmmediatley displayed when pressing the contact button at the top, this placement should not hinder accessibility.\n\n\nMobile responsiveness\nFor the mobile version, content is stacked vertically and the buttons texts are simplified, ensuring a good experience."
+  },
+  {
+    "objectID": "design/dental-clinic-landing.html#desktop-design",
+    "href": "design/dental-clinic-landing.html#desktop-design",
+    "title": "Dental clinic landing page",
+    "section": "Desktop design",
+    "text": "Desktop design"
+  },
+  {
+    "objectID": "design/dental-clinic-landing.html#mobile-design",
+    "href": "design/dental-clinic-landing.html#mobile-design",
+    "title": "Dental clinic landing page",
+    "section": "Mobile design",
+    "text": "Mobile design"
+  },
+  {
+    "objectID": "medical-writing/cholesterol-guide.html",
+    "href": "medical-writing/cholesterol-guide.html",
+    "title": "Cholesterol practical guide",
     "section": "",
-    "text": "Here I include a variety of illustrations, adapted to different styles and purposes.",
+    "text": "Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D.\nCholesterol levels come from its natural production in the liver and from the diet, particularly through the ingestion of animal foods. In addition, saturated fats, that are also present in some vegetables oils, have an impact on the way our bodies process cholesterol, increasing it.\nIf cholesterol builds up in our blood vessels, particularly in arteries, it may lead to their narrowing, reducing the blood flow and increasing the risk for serious conditions, such as heart attack and stroke.",
     "crumbs": [
-      "Scientific illustration"
+      "Medical writing",
+      "Cholesterol · Practical guide"
     ]
   },
   {
-    "objectID": "illustration.html#medical-education",
-    "href": "illustration.html#medical-education",
-    "title": "Scientific illustration",
-    "section": "Medical education",
-    "text": "Medical education\n\nCarpal tunnel syndrome. Designed for an infographic.",
+    "objectID": "medical-writing/cholesterol-guide.html#what-is-cholesterol-why-does-it-matter",
+    "href": "medical-writing/cholesterol-guide.html#what-is-cholesterol-why-does-it-matter",
+    "title": "Cholesterol practical guide",
+    "section": "",
+    "text": "Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D.\nCholesterol levels come from its natural production in the liver and from the diet, particularly through the ingestion of animal foods. In addition, saturated fats, that are also present in some vegetables oils, have an impact on the way our bodies process cholesterol, increasing it.\nIf cholesterol builds up in our blood vessels, particularly in arteries, it may lead to their narrowing, reducing the blood flow and increasing the risk for serious conditions, such as heart attack and stroke.",
     "crumbs": [
-      "Scientific illustration"
+      "Medical writing",
+      "Cholesterol · Practical guide"
     ]
   },
   {
-    "objectID": "illustration.html#biotech",
-    "href": "illustration.html#biotech",
-    "title": "Scientific illustration",
-    "section": "Biotech",
-    "text": "Biotech\n\nCAR-T. Designed for a presentation.",
+    "objectID": "medical-writing/cholesterol-guide.html#cholesterol-types",
+    "href": "medical-writing/cholesterol-guide.html#cholesterol-types",
+    "title": "Cholesterol practical guide",
+    "section": "Cholesterol types",
+    "text": "Cholesterol types\nCholesterol does not travel alone in blood due to its low solubility (it cannot mix with water, as it happens with oil). For this purpose, it is transported inside structures called lipoproteins, which are made of both water-friendly and fat-friendly components. The type of lipoprotein that carries cholesterol determines its classification in:\n\nHDL-cholesterol: High-density lipoproteins carry cholesterol from peripheral tissues to the liver for excretion. It helps to remove excess cholesterol from blood vessels and therefore it is known as the “good” cholesterol.\nLDL-cholesterol: Low-density lipoproteins carry cholesterol from the liver to other parts of the body. If there is excess cholesterol, it accumulates in blood as cells will only take up the cholesterol they need. Its accumulation in our arteries is dangerous because it contributes to the development of cardiovascular disease. Therefore it is known as the “bad” cholesterol.",
     "crumbs": [
-      "Scientific illustration"
+      "Medical writing",
+      "Cholesterol · Practical guide"
+    ]
+  },
+  {
+    "objectID": "medical-writing/cholesterol-guide.html#how-does-high-ldl-cholesterol-contribute-to-cardiovascular-disease",
+    "href": "medical-writing/cholesterol-guide.html#how-does-high-ldl-cholesterol-contribute-to-cardiovascular-disease",
+    "title": "Cholesterol practical guide",
+    "section": "How does high LDL-cholesterol contribute to cardiovascular disease?",
+    "text": "How does high LDL-cholesterol contribute to cardiovascular disease?\nUnder normal conditions, LDL cholesterol cannot easily pass through the inner lining of our blood vessels, the endothelium. However, chronically elevated LDL levels, in the presence of a higher endothelial permeability — due to factors like high blood pressure, inflammation or genetics — can lead to the entry of these LDL particles in the subendothelial space, where they accumulate forming a fatty plaque. This process is known as atherosclerosis.\nThese plaques grow slowly over many years, often without causing noticeable symptoms. As they grow, they narrow the blood flow, so the amount of oxygen and nutrients the reach the surrounding tissues is reduced. Depending on the affected vessel type, symptoms may vary, including angina, dizziness or muscle pain.\n\n\n\n\n\n\n\nFigure 1: Healthy artery: HDL in blue, LDL in yellow.\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Atherosclerosis.\n\n\n\n\nIf left untreated, the constant blood flow through the narrowed artery puts pressure on the inflamed area, which increases the risk of the plaque rupturing. Plaque rupture worsens the condition. The body reacts to the damage by forming a blood clot on the affected area, which can further narrow the artery or block it completely.\n\n\n\n\n\n\n\nFigure 3: Blocked artery by plaque rupture and blood clot.\n\n\n\n\nIf this happens in a coronary artery, it can cause a heart attack. If it occurs in a carotid artery, it may lead to a stroke. Both are serious, potentially life-threatening conditions that require immediate medical attention.",
+    "crumbs": [
+      "Medical writing",
+      "Cholesterol · Practical guide"
+    ]
+  },
+  {
+    "objectID": "medical-writing/cholesterol-guide.html#how-to-improve-cholesterol-levels",
+    "href": "medical-writing/cholesterol-guide.html#how-to-improve-cholesterol-levels",
+    "title": "Cholesterol practical guide",
+    "section": "How to improve cholesterol levels",
+    "text": "How to improve cholesterol levels\nCholesterol levels are affected by genetics, existing health conditions and lifestyle — which is, fortunately, something we can control. Experts’ recommendations are clear:\n\nExercise regularly\nDo not smoke\nLower your stress levels\nLimit intake of saturated fats (found in fatty meats, butter and some processed foods)\n\nIn some cases, it may also be necessary to take cholesterol-lowering medications under a doctor’s supervision.\n \nAll images are original.",
+    "crumbs": [
+      "Medical writing",
+      "Cholesterol · Practical guide"
+    ]
+  },
+  {
+    "objectID": "medical-writing/cholesterol-guide.html#references",
+    "href": "medical-writing/cholesterol-guide.html#references",
+    "title": "Cholesterol practical guide",
+    "section": "References",
+    "text": "References\n\nHuff T, Boyd B, Jialal I. Physiology, Cholesterol. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Updated 2023 Mar 6. Accessed September 26, 2025. https://www.ncbi.nlm.nih.gov/books/NBK470561/\nAmerican Heart Association. Cholesterol. 2024. Accessed September 26, 2025. https://www.heart.org/en/health-topics/cholesterol",
+    "crumbs": [
+      "Medical writing",
+      "Cholesterol · Practical guide"
+    ]
+  },
+  {
+    "objectID": "medical-writing/rest-copywriting.html",
+    "href": "medical-writing/rest-copywriting.html",
+    "title": "Stop making excuses: prioritize your sleep",
+    "section": "",
+    "text": "Your day-to-day is stressful, time runs out and your commitment to getting in bed on time vanishes. Tomorrow I will recover, you think. But you don’t. In the beginning, it seems you are able to deal with everything and keep your productivity up. The day stretches and sleep moves to second place, until sleep deprivation becomes the main character. You can’t focus, irritation is your mood and productivity sinks. You are just tired, very tired, and even after a full night’s sleep, the recovery is not complete. There was actually no net gain: everything you thought you were gaining is now slipping away, and more importantly, there is a price to pay: your health.\nThe symptoms you are undergoing are only the tip of the iceberg: your brain is under stress, your immune system has weakened and you are more likely to suffer a heart attack. You decide to change your habits, so that the foggy mind is gone and your high productivity is back. For some weeks, it works. Through an active effort you manage to follow the plan and get the rest you need. Eventually, urgent responsibilities kick in: the project deadline, the exams, the kids… The cycle starts again. I will manage, you think, despite the exhaustion and the chaos.\nYour body is keeping score. Every sleep-deprived season leaves a scar. In the long term, the chickens come home to roost. There will be a negative impact on your health. Please, do not underestimate the power of rest. Sleep heals, and your body needs that healing.",
+    "crumbs": [
+      "Medical writing",
+      "Sleep · Copywriting"
     ]
   },
   {
@@ -151,14 +207,166 @@
     ]
   },
   {
-    "objectID": "medical-writing/eyes-infographic.html#software-choice",
-    "href": "medical-writing/eyes-infographic.html#software-choice",
-    "title": "Clara Rivero Rodríguez",
-    "section": "Software choice",
-    "text": "Software choice\nThe eye image was created in Krita and the infographic was designed in Figma.",
+    "objectID": "medical-writing.html",
+    "href": "medical-writing.html",
+    "title": "Medical writing",
+    "section": "",
+    "text": "Selection:\n\nType 2 diabetes: a comprehensive literature review. Addressed to professionals.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. Infographic.\nStop making excuses: prioritize your sleep. Copywriting article.\nCO poisoning. Educational article.\n\n \nMore articles:\n\nBone metabolism.",
     "crumbs": [
-      "Medical writing",
-      "Visual health · Infographic"
+      "Medical writing"
+    ]
+  },
+  {
+    "objectID": "illustration/car-t.html",
+    "href": "illustration/car-t.html",
+    "title": "CAR-T Therapy",
+    "section": "",
+    "text": "Figure 1: Patient’s T-cells are extracted in a routinary blood test.\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: A retrovirus with an antitumoral gene is designed.\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Patient’s T-cells are infected by the retrovirus and genetically modified to express the antitumoral protein.\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Antitumoral T-cells are proliferated in lab.\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Patient receives these T-cells, which target and destroy tumor cells.",
+    "crumbs": [
+      "Scientific illustration",
+      "CAR-T Therapy"
+    ]
+  },
+  {
+    "objectID": "illustration/car-t.html#illustrations",
+    "href": "illustration/car-t.html#illustrations",
+    "title": "CAR-T Therapy",
+    "section": "",
+    "text": "Figure 1: Patient’s T-cells are extracted in a routinary blood test.\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: A retrovirus with an antitumoral gene is designed.\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Patient’s T-cells are infected by the retrovirus and genetically modified to express the antitumoral protein.\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Antitumoral T-cells are proliferated in lab.\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Patient receives these T-cells, which target and destroy tumor cells.",
+    "crumbs": [
+      "Scientific illustration",
+      "CAR-T Therapy"
+    ]
+  },
+  {
+    "objectID": "illustration/car-t.html#use-case-slides-for-a-presentation",
+    "href": "illustration/car-t.html#use-case-slides-for-a-presentation",
+    "title": "CAR-T Therapy",
+    "section": "Use case: Slides for a presentation",
+    "text": "Use case: Slides for a presentation\n\n\n\n\n\n\n\nFigure 6: Slide 1: CAR-T technology\n\n\n\n\n\n\n\n\n\n\n\nFigure 7: Slide 2: CAR-T technology",
+    "crumbs": [
+      "Scientific illustration",
+      "CAR-T Therapy"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me via:\n\nEmail: clara.rivero.rdgz@gmail.com\nLinkedIn: linkedin.com/in/clarariverorodriguez"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scientific illustration & healthcare communication",
+    "section": "",
+    "text": "Welcome to my website. I can help you with rigorous and appealing visuals and evidence-based content, so that your company’s impact doesn’t go unnoticed.\n \nWould you like to have a custom set of illustrations that truly represent your vision and science?\nAmong AI-generated content and all the media noise, customized visuals make a huge difference. In any situation (internal or investor presentations, scientific posters, blog posts…), they convey a professional image and a polished communication strategy. Check out some sample projects:\n- Scientific illustration\n \nAre you looking for flexible scientific support for your business?\nI can help you reduce your workload by providing reliable research assistance, literature reviews and content creation adapted to the communication purpose: divulgation, promotion, internal documentation… I write about medicine here:\n- Medical writing\n \nI’m a biomedical engineer currently pursuing a degree in medicine. I have worked in fast-paced environments and adapt quickly to different needs. Let’s collaborate! Contact"
+  },
+  {
+    "objectID": "illustration.html",
+    "href": "illustration.html",
+    "title": "Scientific illustration",
+    "section": "",
+    "text": "Here I include a variety of illustrations, adapted to different styles and purposes.",
+    "crumbs": [
+      "Scientific illustration"
+    ]
+  },
+  {
+    "objectID": "illustration.html#medical-education",
+    "href": "illustration.html#medical-education",
+    "title": "Scientific illustration",
+    "section": "Medical education",
+    "text": "Medical education\n\nCarpal tunnel syndrome. Designed for an infographic.",
+    "crumbs": [
+      "Scientific illustration"
+    ]
+  },
+  {
+    "objectID": "illustration.html#biotech",
+    "href": "illustration.html#biotech",
+    "title": "Scientific illustration",
+    "section": "Biotech",
+    "text": "Biotech\n\nCAR-T. Designed for a presentation.",
+    "crumbs": [
+      "Scientific illustration"
+    ]
+  },
+  {
+    "objectID": "illustration.html#medical-devices",
+    "href": "illustration.html#medical-devices",
+    "title": "Scientific illustration",
+    "section": "Medical devices",
+    "text": "Medical devices\n\nCoronary stent. Designed for a company’s website.",
+    "crumbs": [
+      "Scientific illustration"
+    ]
+  },
+  {
+    "objectID": "illustration/carpal-tunnel-syndrome.html",
+    "href": "illustration/carpal-tunnel-syndrome.html",
+    "title": "Carpal tunnel syndrome",
+    "section": "",
+    "text": "Figure 1: Carpal tunnel syndrome.",
+    "crumbs": [
+      "Scientific illustration",
+      "Carpal tunnel syndrome"
+    ]
+  },
+  {
+    "objectID": "illustration/carpal-tunnel-syndrome.html#illustration",
+    "href": "illustration/carpal-tunnel-syndrome.html#illustration",
+    "title": "Carpal tunnel syndrome",
+    "section": "",
+    "text": "Figure 1: Carpal tunnel syndrome.",
+    "crumbs": [
+      "Scientific illustration",
+      "Carpal tunnel syndrome"
+    ]
+  },
+  {
+    "objectID": "illustration/carpal-tunnel-syndrome.html#use-case-infographic",
+    "href": "illustration/carpal-tunnel-syndrome.html#use-case-infographic",
+    "title": "Carpal tunnel syndrome",
+    "section": "Use case: Infographic",
+    "text": "Use case: Infographic\n\n\n\n\n\n\n\nFigure 2: Carpal tunnel syndrome infographic.",
+    "crumbs": [
+      "Scientific illustration",
+      "Carpal tunnel syndrome"
+    ]
+  },
+  {
+    "objectID": "illustration/coronary-stent.html",
+    "href": "illustration/coronary-stent.html",
+    "title": "Coronary stent company",
+    "section": "",
+    "text": "Figure 1: Hero image for website homepage\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Company’s logo.",
+    "crumbs": [
+      "Scientific illustration",
+      "Coronary stent"
+    ]
+  },
+  {
+    "objectID": "illustration/coronary-stent.html#illustrations",
+    "href": "illustration/coronary-stent.html#illustrations",
+    "title": "Coronary stent company",
+    "section": "",
+    "text": "Figure 1: Hero image for website homepage\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Company’s logo.",
+    "crumbs": [
+      "Scientific illustration",
+      "Coronary stent"
+    ]
+  },
+  {
+    "objectID": "illustration/coronary-stent.html#use-case-homepage-of-companys-website",
+    "href": "illustration/coronary-stent.html#use-case-homepage-of-companys-website",
+    "title": "Coronary stent company",
+    "section": "Use case: Homepage of company’s website",
+    "text": "Use case: Homepage of company’s website\n\n\n\n\n\n\n\nFigure 3: Homepage of a cardiovascular technology company",
+    "crumbs": [
+      "Scientific illustration",
+      "Coronary stent"
     ]
   },
   {
@@ -261,79 +469,6 @@
     ]
   },
   {
-    "objectID": "design.html",
-    "href": "design.html",
-    "title": "UI/UX Design",
-    "section": "",
-    "text": "In the midst of the digital revolution, the demand for products that are functional and intuitive is on rise. Digitalization impacts all areas of life and affects people of all ages — no one should feel left behind.\nGood UI/UX design makes a product easier to use, more valuable and more enjoyable to interact with. Aesthetics and functionality, aligned to create the best possible user experience, so people don’t regret the arrival of technology in their lives.\nCurrently, there is one project in my portfolio:\n\nDental clinic landing page. Desktop and mobile design for a website of a fictional dental clinic."
-  },
-  {
-    "objectID": "medical-writing.html",
-    "href": "medical-writing.html",
-    "title": "Medical writing",
-    "section": "",
-    "text": "Selection:\n\nType 2 diabetes: a comprehensive literature review. Addressed to professionals.\nCholesterol practical guide. Addressed to the general public.\nEye care essentials. Infographic.\nStop making excuses: prioritize your sleep. Copywriting article.\nCO poisoning. Educational article.\n\n \nMore articles:\n\nBone metabolism.",
-    "crumbs": [
-      "Medical writing"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Scientific illustration & healthcare communication",
-    "section": "",
-    "text": "Welcome to my website. I can help you with rigorous and appealing visuals and evidence-based content, so that your company’s impact doesn’t go unnoticed.\n \nWould you like to have a custom set of illustrations that truly represent your vision and science?\nAmong AI-generated content and all the media noise, customized visuals make a huge difference. In any situation (internal or investor presentations, scientific posters, blog posts…), they convey a professional image and a polished communication strategy. Check out some sample projects:\n- Scientific illustration\n \nAre you looking for flexible scientific support for your business?\nI can help you reduce your workload by providing reliable research assistance, literature reviews and content creation adapted to the communication purpose: divulgation, promotion, internal documentation…I write about medicine here:\n- Medical writing\n \nI’m a biomedical engineer currently pursuing a degree in medicine. I have worked in fast-paced environments and adapt quickly to different needs. Let’s collaborate! Contact"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "You can contact me via:\n\nEmail: clara.rivero.rdgz@gmail.com\nLinkedIn: linkedin.com/in/clarariverorodriguez"
-  },
-  {
-    "objectID": "design/dental-clinic-landing.html",
-    "href": "design/dental-clinic-landing.html",
-    "title": "Dental clinic landing page",
-    "section": "",
-    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma."
-  },
-  {
-    "objectID": "design/dental-clinic-landing.html#introduction",
-    "href": "design/dental-clinic-landing.html#introduction",
-    "title": "Dental clinic landing page",
-    "section": "",
-    "text": "This project focuses on designing a responsive landing page for a fictional dental clinic, that currently lacks an online presence. Since the clinic is in a growth phase and approximately a quarter of its clients are not tech-savvy, the primary goal was to create a simple, functional and visually appealing interface. Users should be able to get the information they need quickly and effortlessly. For this purpose, I used Figma."
-  },
-  {
-    "objectID": "design/dental-clinic-landing.html#ui-design-justification",
-    "href": "design/dental-clinic-landing.html#ui-design-justification",
-    "title": "Dental clinic landing page",
-    "section": "UI Design justification",
-    "text": "UI Design justification\n\nColor palette\nThe target values to convey were: professionalism, cleanliness, trust and health. I chose a color palette based on: white, black, soft blues and coral. White and soft blues are associated with hygiene and calmness, black conveys professionalism and the colar tone resembles the natural color of healthy gums, adding a welcoming touch to the layout.\n\n\nTypography\nI selected Gloock and Gulzar as the primary typefaces, to reinforce the professional visual identity of the dental clinic. Gloock is characterized by its elegant curves and strong strokes, which makes it suitable for the headings and key textual elements. Gluzar, on the other hand, is simpler and enhances readibility, so it was applied in the body text. Both share similarities - visual harmony is maintained.\nFor call-to-action buttons, I used Inter, a modern sans-serif typeface, very legible, which invites for interaction.\n\n\nImages and iconography\nThe logo and the images were created by me. The logo initially began as a representation of the top view of a molar, but it evolved into a simpler version consisting of oblique rectangles representing vertical shadows. This minimal adaptation worked better for mobile responsiveness while aligning with the elegance and simplicity of the overall design.\nSince this is a fictional project, I didn’t have access to real images of a dental clinic. Instead, I represented the types of images I would include in each section. The first image, for example, could feature a smiling family to create a welcoming first impression. The following two images would ideally show portraits of the clinic’s doctors to help build trust."
-  },
-  {
-    "objectID": "design/dental-clinic-landing.html#ux-design-justification",
-    "href": "design/dental-clinic-landing.html#ux-design-justification",
-    "title": "Dental clinic landing page",
-    "section": "UX Design justification",
-    "text": "UX Design justification\n\nLayout and user flow\nThe structure follows a logical and easy-to-navigate order that prioritizes quick access to essential information without overwhelming the reader.\nThe header includes the logo and buttons that link to the corresponding sections on the same page. The “Contact” button features bold text, is accompanied by a mouse pointer icon, and is positioned at the top right to draw attention and encourage user interaction.\nThe hero section displays a happy and healthy family, reflecting the clinic’s core patients and values. Its message, summarized in three lines, reinforces the promotion of dental health and the offering for help.\nIn a clinical environment, it is crucial for visitors to know who is in charge and why they can be trusted. The team section addresses this by showcasing the doctors’ qualifications, personal photos, and professional experience. Trust is further reinforced by a dedicated reviews section, featuring patient testimonials and highlighting the clinic’s key strengths.\nFinally, the contact information is placed at the bottom of the page, following a common and intuitive structure. Since the website is short and this setion is inmmediatley displayed when pressing the contact button at the top, this placement should not hinder accessibility.\n\n\nMobile responsiveness\nFor the mobile version, content is stacked vertically and the buttons texts are simplified, ensuring a good experience."
-  },
-  {
-    "objectID": "design/dental-clinic-landing.html#desktop-design",
-    "href": "design/dental-clinic-landing.html#desktop-design",
-    "title": "Dental clinic landing page",
-    "section": "Desktop design",
-    "text": "Desktop design"
-  },
-  {
-    "objectID": "design/dental-clinic-landing.html#mobile-design",
-    "href": "design/dental-clinic-landing.html#mobile-design",
-    "title": "Dental clinic landing page",
-    "section": "Mobile design",
-    "text": "Mobile design"
-  },
-  {
     "objectID": "medical-writing/co-poisoning.html",
     "href": "medical-writing/co-poisoning.html",
     "title": "Carbon monoxide (CO) poisoning",
@@ -389,113 +524,21 @@
     ]
   },
   {
-    "objectID": "medical-writing/rest-copywriting.html",
-    "href": "medical-writing/rest-copywriting.html",
-    "title": "Stop making excuses: prioritize your sleep",
+    "objectID": "medical-writing/eyes-infographic.html#software-choice",
+    "href": "medical-writing/eyes-infographic.html#software-choice",
+    "title": "Clara Rivero Rodríguez",
+    "section": "Software choice",
+    "text": "Software choice\nThe eye image was created in Krita and the infographic was designed in Figma.",
+    "crumbs": [
+      "Medical writing",
+      "Visual health · Infographic"
+    ]
+  },
+  {
+    "objectID": "design.html",
+    "href": "design.html",
+    "title": "UI/UX Design",
     "section": "",
-    "text": "Your day-to-day is stressful, time runs out and your commitment to getting in bed on time vanishes. Tomorrow I will recover, you think. But you don’t. In the beginning, it seems you are able to deal with everything and keep your productivity up. The day stretches and sleep moves to second place, until sleep deprivation becomes the main character. You can’t focus, irritation is your mood and productivity sinks. You are just tired, very tired, and even after a full night’s sleep, the recovery is not complete. There was actually no net gain: everything you thought you were gaining is now slipping away, and more importantly, there is a price to pay: your health.\nThe symptoms you are undergoing are only the tip of the iceberg: your brain is under stress, your immune system has weakened and you are more likely to suffer a heart attack. You decide to change your habits, so that the foggy mind is gone and your high productivity is back. For some weeks, it works. Through an active effort you manage to follow the plan and get the rest you need. Eventually, urgent responsibilities kick in: the project deadline, the exams, the kids… The cycle starts again. I will manage, you think, despite the exhaustion and the chaos.\nYour body is keeping score. Every sleep-deprived season leaves a scar. In the long term, the chickens come home to roost. There will be a negative impact on your health. Please, do not underestimate the power of rest. Sleep heals, and your body needs that healing.",
-    "crumbs": [
-      "Medical writing",
-      "Sleep · Copywriting"
-    ]
-  },
-  {
-    "objectID": "medical-writing/cholesterol-guide.html",
-    "href": "medical-writing/cholesterol-guide.html",
-    "title": "Cholesterol practical guide",
-    "section": "",
-    "text": "Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D.\nCholesterol levels come from its natural production in the liver and from the diet, particularly through the ingestion of animal foods. In addition, saturated fats, that are also present in some vegetables oils, have an impact on the way our bodies process cholesterol, increasing it.\nIf cholesterol builds up in our blood vessels, particularly in arteries, it may lead to their narrowing, reducing the blood flow and increasing the risk for serious conditions, such as heart attack and stroke.",
-    "crumbs": [
-      "Medical writing",
-      "Cholesterol · Practical guide"
-    ]
-  },
-  {
-    "objectID": "medical-writing/cholesterol-guide.html#what-is-cholesterol-why-does-it-matter",
-    "href": "medical-writing/cholesterol-guide.html#what-is-cholesterol-why-does-it-matter",
-    "title": "Cholesterol practical guide",
-    "section": "",
-    "text": "Cholesterol is a fat-like substance that is vital for the proper functioning of our bodies, so critical that its excess or deficiency can bring disease. Its most important functions are: stabilization of cellular membranes and production of hormones and vitamins, such as cortisol, testosterone and vitamin D.\nCholesterol levels come from its natural production in the liver and from the diet, particularly through the ingestion of animal foods. In addition, saturated fats, that are also present in some vegetables oils, have an impact on the way our bodies process cholesterol, increasing it.\nIf cholesterol builds up in our blood vessels, particularly in arteries, it may lead to their narrowing, reducing the blood flow and increasing the risk for serious conditions, such as heart attack and stroke.",
-    "crumbs": [
-      "Medical writing",
-      "Cholesterol · Practical guide"
-    ]
-  },
-  {
-    "objectID": "medical-writing/cholesterol-guide.html#cholesterol-types",
-    "href": "medical-writing/cholesterol-guide.html#cholesterol-types",
-    "title": "Cholesterol practical guide",
-    "section": "Cholesterol types",
-    "text": "Cholesterol types\nCholesterol does not travel alone in blood due to its low solubility (it cannot mix with water, as it happens with oil). For this purpose, it is transported inside structures called lipoproteins, which are made of both water-friendly and fat-friendly components. The type of lipoprotein that carries cholesterol determines its classification in:\n\nHDL-cholesterol: High-density lipoproteins carry cholesterol from peripheral tissues to the liver for excretion. It helps to remove excess cholesterol from blood vessels and therefore it is known as the “good” cholesterol.\nLDL-cholesterol: Low-density lipoproteins carry cholesterol from the liver to other parts of the body. If there is excess cholesterol, it accumulates in blood as cells will only take up the cholesterol they need. Its accumulation in our arteries is dangerous because it contributes to the development of cardiovascular disease. Therefore it is known as the “bad” cholesterol.",
-    "crumbs": [
-      "Medical writing",
-      "Cholesterol · Practical guide"
-    ]
-  },
-  {
-    "objectID": "medical-writing/cholesterol-guide.html#how-does-high-ldl-cholesterol-contribute-to-cardiovascular-disease",
-    "href": "medical-writing/cholesterol-guide.html#how-does-high-ldl-cholesterol-contribute-to-cardiovascular-disease",
-    "title": "Cholesterol practical guide",
-    "section": "How does high LDL-cholesterol contribute to cardiovascular disease?",
-    "text": "How does high LDL-cholesterol contribute to cardiovascular disease?\nUnder normal conditions, LDL cholesterol cannot easily pass through the inner lining of our blood vessels, the endothelium. However, chronically elevated LDL levels, in the presence of a higher endothelial permeability — due to factors like high blood pressure, inflammation or genetics — can lead to the entry of these LDL particles in the subendothelial space, where they accumulate forming a fatty plaque. This process is known as atherosclerosis.\nThese plaques grow slowly over many years, often without causing noticeable symptoms. As they grow, they narrow the blood flow, so the amount of oxygen and nutrients the reach the surrounding tissues is reduced. Depending on the affected vessel type, symptoms may vary, including angina, dizziness or muscle pain.\n\n\n\n\n\n\n\nFigure 1: Healthy artery: HDL in blue, LDL in yellow.\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Atherosclerosis.\n\n\n\n\nIf left untreated, the constant blood flow through the narrowed artery puts pressure on the inflamed area, which increases the risk of the plaque rupturing. Plaque rupture worsens the condition. The body reacts to the damage by forming a blood clot on the affected area, which can further narrow the artery or block it completely.\n\n\n\n\n\n\n\nFigure 3: Blocked artery by plaque rupture and blood clot.\n\n\n\n\nIf this happens in a coronary artery, it can cause a heart attack. If it occurs in a carotid artery, it may lead to a stroke. Both are serious, potentially life-threatening conditions that require immediate medical attention.",
-    "crumbs": [
-      "Medical writing",
-      "Cholesterol · Practical guide"
-    ]
-  },
-  {
-    "objectID": "medical-writing/cholesterol-guide.html#how-to-improve-cholesterol-levels",
-    "href": "medical-writing/cholesterol-guide.html#how-to-improve-cholesterol-levels",
-    "title": "Cholesterol practical guide",
-    "section": "How to improve cholesterol levels",
-    "text": "How to improve cholesterol levels\nCholesterol levels are affected by genetics, existing health conditions and lifestyle — which is, fortunately, something we can control. Experts’ recommendations are clear:\n\nExercise regularly\nDo not smoke\nLower your stress levels\nLimit intake of saturated fats (found in fatty meats, butter and some processed foods)\n\nIn some cases, it may also be necessary to take cholesterol-lowering medications under a doctor’s supervision.\n \nAll images are original.",
-    "crumbs": [
-      "Medical writing",
-      "Cholesterol · Practical guide"
-    ]
-  },
-  {
-    "objectID": "medical-writing/cholesterol-guide.html#references",
-    "href": "medical-writing/cholesterol-guide.html#references",
-    "title": "Cholesterol practical guide",
-    "section": "References",
-    "text": "References\n\nHuff T, Boyd B, Jialal I. Physiology, Cholesterol. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Updated 2023 Mar 6. Accessed September 26, 2025. https://www.ncbi.nlm.nih.gov/books/NBK470561/\nAmerican Heart Association. Cholesterol. 2024. Accessed September 26, 2025. https://www.heart.org/en/health-topics/cholesterol",
-    "crumbs": [
-      "Medical writing",
-      "Cholesterol · Practical guide"
-    ]
-  },
-  {
-    "objectID": "illustration/carpal-tunnel-syndrome.html",
-    "href": "illustration/carpal-tunnel-syndrome.html",
-    "title": "Carpal tunnel syndrome",
-    "section": "",
-    "text": "Figure 1: Carpal tunnel syndrome.",
-    "crumbs": [
-      "Scientific illustration",
-      "Carpal tunnel syndrome"
-    ]
-  },
-  {
-    "objectID": "illustration/carpal-tunnel-syndrome.html#illustration",
-    "href": "illustration/carpal-tunnel-syndrome.html#illustration",
-    "title": "Carpal tunnel syndrome",
-    "section": "",
-    "text": "Figure 1: Carpal tunnel syndrome.",
-    "crumbs": [
-      "Scientific illustration",
-      "Carpal tunnel syndrome"
-    ]
-  },
-  {
-    "objectID": "illustration/carpal-tunnel-syndrome.html#use-case-infographic",
-    "href": "illustration/carpal-tunnel-syndrome.html#use-case-infographic",
-    "title": "Carpal tunnel syndrome",
-    "section": "Use case: Infographic",
-    "text": "Use case: Infographic\n\n\n\n\n\n\n\nFigure 2: Carpal tunnel syndrome infographic.",
-    "crumbs": [
-      "Scientific illustration",
-      "Carpal tunnel syndrome"
-    ]
+    "text": "In the midst of the digital revolution, the demand for products that are functional and intuitive is on rise. Digitalization impacts all areas of life and affects people of all ages — no one should feel left behind.\nGood UI/UX design makes a product easier to use, more valuable and more enjoyable to interact with. Aesthetics and functionality, aligned to create the best possible user experience, so people don’t regret the arrival of technology in their lives.\nCurrently, there is one project in my portfolio:\n\nDental clinic landing page. Desktop and mobile design for a website of a fictional dental clinic."
   }
 ]
