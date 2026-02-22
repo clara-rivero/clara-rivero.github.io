@@ -9,10 +9,10 @@ title: "Coronary stent company"
 :::
 
 ::: {.custom-figure}
-![Company's logo.](images/coronary-stent/cardiac_company_logo.svg){#fig-bloqueada}
+![Company's logo.](images/coronary-stent/cardiovascular_company_logo.svg){#fig-bloqueada}
 :::
 
 ## Use case: Homepage of company's website
 ::: {.custom-figure-2}
-![Homepage of cardiac company's website](images/coronary-stent/cardiac_company_homepage.png){#fig-bloqueada}
+![Homepage of a cardiovascular technology company](images/coronary-stent/medtech_company_homepage.png){#fig-bloqueada}
 :::
