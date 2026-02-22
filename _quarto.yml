@@ -29,6 +29,8 @@ website:
             href: illustration/carpal-tunnel-syndrome.qmd
           - text: "CAR-T Therapy"
             href: illustration/car-t.qmd
+          - text: "Coronary stent"
+            href: illustration/coronary-stent.qmd
       - section: "Medical writing"
         href: medical-writing.qmd
         contents:

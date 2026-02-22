@@ -8,3 +8,6 @@ Here I include a variety of illustrations, adapted to different styles and purpo
 
 ## Biotech
 - [CAR-T.](illustration/car-t.qmd){.main-link} Designed for a presentation.
+
+## Medical devices
+- [Coronary stent.](illustration/coronary-stent.qmd){.main-link} Designed for a company's website.
