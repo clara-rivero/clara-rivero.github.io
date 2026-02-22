@@ -5,7 +5,7 @@ title: "Coronary stent company"
 
 ## Illustrations
 ::: {.custom-figure-2}
-![Hero image for website homepage](images/coronary-stent/coronary_stent.png){#fig-bloqueada}
+![Hero image for website homepage.](images/coronary-stent/coronary_stent.png){#fig-bloqueada}
 :::
 
 ::: {.custom-figure}
@@ -14,5 +14,5 @@ title: "Coronary stent company"
 
 ## Use case: Homepage of company's website
 ::: {.custom-figure-2}
-![Homepage of a coronary stent company](images/coronary-stent/company_homepage.png){#fig-bloqueada}
+![Homepage of a coronary stent company.](images/coronary-stent/company_homepage.png){#fig-bloqueada}
 :::
