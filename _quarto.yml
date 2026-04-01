@@ -31,6 +31,10 @@ website:
             href: illustration/car-t.qmd
           - text: "Coronary stent"
             href: illustration/coronary-stent.qmd
+          - text: "Nephrology conferece"
+            href: illustration/nephrology-conference.qmd
+          # - text: "Heimlich maneuver"
+          #   href: illustration/heimlich-maneuver.qmd
       - section: "Medical writing"
         href: medical-writing.qmd
         contents:

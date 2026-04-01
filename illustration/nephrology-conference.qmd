@@ -1,0 +1,15 @@
+---
+title: "Nephrology conference"
+---
+
+## Illustration
+::: {.custom-figure}
+![Kidney](images/nephrology-conference/kidney.svg){#fig-bloqueada}
+:::
+
+## Use case: Conference branding
+Fictional data. 
+
+::: {.custom-figure-2}
+![Event promotion](images/nephrology-conference/event_promotion.svg){#fig-bloqueada}
+:::
