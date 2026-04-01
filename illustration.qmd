@@ -11,3 +11,6 @@ Here I include a variety of illustrations, adapted to different styles and purpo
 
 ## Medical devices
 - [Coronary stent.](illustration/coronary-stent.qmd){.main-link} Designed for a company's website.
+
+## Events
+- [Nephrology conference.](illustration/nephrology-conference.qmd){.main-link} Designed for conference branding.
