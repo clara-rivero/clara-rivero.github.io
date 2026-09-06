@@ -17,7 +17,7 @@ Hi! I create visuals and scientific content. Check out my last projects. Let's c
 
 ::: {#homepage layout-ncol=2}
 
-[![](banners/cart.png)](diagrams/car-t.qmd)
+[![](banners/car-t.png)](diagrams/car-t.qmd)
 
 [![](banners/metabolismo-óseo.png)](diagrams/metabolismo-oseo.qmd)
 

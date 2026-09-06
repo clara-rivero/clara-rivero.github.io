@@ -17,17 +17,17 @@ website:
       - href: contact.qmd
         text: Contact
 
-  sidebar:
-    style: "docked"
-    search: true 
-    collapse-level: 2
-    contents:
-      - section: "Infographics"
-        contents:
-          - text: "Carpal tunnel syndrome"
-            href: illustration/carpal-tunnel-syndrome.qmd
-          - text: "CAR-T Therapy"
-            href: illustration/car-t.qmd
+  # sidebar:
+  #   style: "docked"
+  #   search: true 
+  #   collapse-level: 2
+  #   contents:
+  #     - section: "Infographics"
+  #       contents:
+  #         - text: "Carpal tunnel syndrome"
+  #           href: illustration/carpal-tunnel-syndrome.qmd
+  #         - text: "CAR-T Therapy"
+  #           href: illustration/car-t.qmd
 
 format:
   html:
