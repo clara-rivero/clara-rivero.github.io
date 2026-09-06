@@ -1,0 +1,5 @@
+::: {.custom-figure-2}
+![Infografía sobre la punción lumbar (lumbar puncture infographic)](punción-lumbar.png){#fig-bloqueada}
+:::
+
+Diseñada para un centro médico (designed for a medical center).

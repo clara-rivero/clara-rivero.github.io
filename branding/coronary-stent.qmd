@@ -1,0 +1,5 @@
+::: {.custom-figure-2}
+![Homepage of a coronary stent company.](company-homepage.png){#fig-bloqueada}
+:::
+
+Designed for a coronary stent company. 

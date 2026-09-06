@@ -1,0 +1,8 @@
+<!-- ---
+title: "Dry eye infographic"
+--- -->
+::: {.custom-figure-2}
+![Dry eye infographic](dry-eye.png){#fig-bloqueada}
+:::
+
+Designed for an ophthalmology clinic.

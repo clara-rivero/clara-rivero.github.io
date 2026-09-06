@@ -1,21 +1,45 @@
 ---
 title: "Scientific illustration & healthcare communication"
 ---
-Welcome to my website. I can help you with rigorous and appealing visuals and evidence-based content, so that your company's impact doesn't go unnoticed. 
+Hi! I create visuals and scientific content. Check out my last projects. Let's collaborate! [Contact](contact.qmd){.main-link}
 
-&nbsp;
+**INFOGRAPHICS** 
 
-**Would you like to have a custom set of illustrations that truly represent your vision and science?**    
-Among AI-generated content and all the media noise, customized visuals make a huge difference. In any situation (internal or investor presentations, scientific posters, blog posts...), they convey a professional image and a polished communication strategy. Check out some sample projects:  
- - [Scientific illustration](illustration.qmd){.main-link}
+::: {#homepage layout-ncol=2}
 
-&nbsp;
+[![](banners/dry-eye.png)](infographics/dry-eye-infographic.qmd)
 
-**Are you looking for flexible scientific support for your business?**    
-I can help you reduce your workload by providing reliable research assistance, literature reviews and content creation adapted to the communication purpose: divulgation, promotion, internal documentation... I write about medicine here:  
- -  [Medical writing](medical-writing.qmd){.main-link}
+[![](banners/punción-lumbar.png)](infographics/lumbar-puncture-infographic.qmd)
+:::
 
-&nbsp;
 
-I’m a biomedical engineer currently pursuing a degree in medicine. I have worked in fast-paced environments and adapt quickly to different needs. Let's collaborate! [Contact](contact.qmd){.main-link}
+**DIAGRAMS**  
+
+::: {#homepage layout-ncol=2}
+
+[![](banners/cart.png)](diagrams/car-t.qmd)
+
+[![](banners/metabolismo-óseo.png)](diagrams/metabolismo-oseo.qmd)
+
+:::
+
+**BRANDING** 
+
+::: {#homepage layout-ncol=2}
+
+[![](banners/coronary-stent.png)](branding/coronary-stent.qmd)
+
+:::
+
+**BLOG POSTS** Coming soon. 
+
+**SOCIAL MEDIA** Coming soon. 
+
+**TECHNICAL ARTICLES** 
+
+- [CO poisoning.](medical_writing/co-poisoning.qmd){.main-link}
+- [Type 2 diabetes: a comprehensive literature review.](medical_writing/diabetes-review.qmd){.main-link}
+
+
+<!-- [![](banners/coronary_stent.png)](branding/coronary_stent.qmd){.banner} decidir si me gusta con lo del banner o no-->
 
