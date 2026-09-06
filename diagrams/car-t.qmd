@@ -1,0 +1,5 @@
+::: {.custom-figure-2}
+![CAR-T Therapy diagram](car-t.png){#fig-bloqueada}
+:::
+
+Designed for educational purposes.

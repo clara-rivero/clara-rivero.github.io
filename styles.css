@@ -64,6 +64,9 @@ body {
     margin-right: auto;
     padding-left: 20px;
     padding-right: 20px;
+    /* max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important; */
 } 
 
 .breadcrumb, .quarto-breadcrumb, .page-header, .quarto-page-header {
@@ -105,13 +108,19 @@ body {
 main a.main-link {
   color: #333333;     
   text-decoration: underline; 
-  font-weight: 550;   
+  /* font-weight: 550;    */
 }
 
 main a.main-link:hover {
   color: #000000;        
   text-decoration: none;  
 }
+
+/* Sombra grisácea al clicar en los elementos del homepage, si al final quiero ponerlo */
+/* .banner:hover img {
+  transform: scale(1.02);
+  box-shadow: 0 10px 10px rgba(0,0,0,0.25);
+} */
 
 .quarto-secondary-nav {
   padding-left: 0 !important;
@@ -259,3 +268,20 @@ main a.main-link:hover {
     width: 75%;
   }
 }
+
+/* Starting grid */
+#homepage img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  column-gap: 1px;
+} 
+
+/* Posibilidad de caja gris para vocabulario la sección: blog posts */
+/* .glossary-box {
+  background-color: #f3f3f3;
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+} */
+

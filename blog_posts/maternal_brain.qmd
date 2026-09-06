@@ -1,0 +1,42 @@
+---
+title: "The maternal brain:<br>How pregnancy remodels women’s brains, possibly forever"
+---
+Pregnancy triggers structural and chemical brain changes that enhance sensitivity to infant cues and facilitate emotional bonding with the child. 
+
+::: {.custom-figure-3}
+![](maternal_brain.png)
+:::
+
+During postpartum months many women experience the “mommy brain”, commonly used to refer to mental fogginess and forgetness, related to stress and sleep deprivation. However, their brains are actually undergoing a neurological remodeling process to support their infant’s survival. Although this research is still at its onset, neuroscientists agree on some neuroplasticity events.
+
+Through the comparison among brain MRI images before and after pregnancy, there is a clear reduction in gray matter volume in areas related to the interpretation of other’s emotional states and needs, as well as in cortical thickness. Researchers associate these decreases with a synaptic pruning process: weak or unused connections get removed while the desired ones get stronger, so that the brain works better. White matter, in contrast, follows a non-linear pattern: it peaks in the early third semester and returns to normal values by the time of birth. Along with these structural changes, there are also functional changes, such as an increase in connectivity in the default mode network, which contributes to the development of mother-infant bonding and reduces the risk of infant rejection. 
+
+Pregnancy hormones (progesterone and estradiol) are responsible for these changes and some may persist years after giving birth, with some potential long-term benefits. Without a doubt, pregnancy is a transformative season, and hopefully an incredible one.
+
+::: {.glossary-box}
+
+## Glossary
+**White matter** The part of the brain primarily composed of myelinated nerve fibers.<br>
+**Gray matter** The part of the brain containing most neuronal cell bodies.<br>
+**Default mode network** A brain network involved in internally directed cognition.
+
+:::
+
+
+Here is a footnote reference,[^1] and another.[^longnote]
+
+[^1]: Here is the footnote.
+
+[^longnote]: Here's one with multiple blocks.
+
+    Subsequent paragraphs are indented to show that they
+belong to the previous footnote.
+
+        { some.code }
+
+    The whole paragraph can be indented, or just the first
+    line.  In this way, multi-paragraph footnotes work like
+    multi-paragraph list items.
+
+This paragraph won't be part of the note, because it
+isn't indented.

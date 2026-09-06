@@ -1,0 +1,5 @@
+::: {.custom-figure-2}
+![Metabolismo óseo](metabolismo-óseo.png){#fig-bloqueada}
+:::
+
+Diseñado con fines educativos (nivel avanzado).
