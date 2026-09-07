@@ -9,7 +9,7 @@ Hi! I create visuals and scientific content. Check out my last projects. Let's c
 
 [![](banners/dry-eye.png)](infographics/dry-eye-infographic.qmd)
 
-[![](banners/punción-lumbar.png)](infographics/lumbar-puncture-infographic.qmd)
+[![](banners/puncion-lumbar.png)](infographics/lumbar-puncture-infographic.qmd)
 :::
 
 
@@ -19,7 +19,7 @@ Hi! I create visuals and scientific content. Check out my last projects. Let's c
 
 [![](banners/car-t.png)](diagrams/car-t.qmd)
 
-[![](banners/metabolismo-óseo.png)](diagrams/metabolismo-oseo.qmd)
+[![](banners/metabolismo-oseo.png)](diagrams/metabolismo-oseo.qmd)
 
 :::
 
