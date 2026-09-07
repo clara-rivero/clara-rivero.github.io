@@ -116,12 +116,6 @@ main a.main-link:hover {
   text-decoration: none;  
 }
 
-/* Sombra grisácea al clicar en los elementos del homepage, si al final quiero ponerlo */
-/* .banner:hover img {
-  transform: scale(1.02);
-  box-shadow: 0 10px 10px rgba(0,0,0,0.25);
-} */
-
 .quarto-secondary-nav {
   padding-left: 0 !important;
   margin-left: 9px !important;
@@ -270,12 +264,17 @@ main a.main-link:hover {
 }
 
 /* Starting grid */
-#homepage img {
+/* #homepage img {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: contain;
-  column-gap: 1px;
-} 
+}  */
+
+/* Sombra grisácea al clicar en los elementos del homepage, si al final quiero ponerlo */
+#homepage img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 10px rgba(0,0,0,0.25);
+}
 
 /* Posibilidad de caja gris para vocabulario la sección: blog posts */
 /* .glossary-box {
